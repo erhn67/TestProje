@@ -1,0 +1,2 @@
+[0001].[2021.04.03.19.03.25.525527].SRV1.INF:Main.py.<module>.325:Main Program Started
+[0002].[2021.04.03.19.03.25.526527].SRV1.ERR:Main.py.<module>.328:Artificial Error Message for testing purpose

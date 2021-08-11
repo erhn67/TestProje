@@ -1,0 +1,76 @@
+[0001].[11100].[18152].[2021.04.04.22.32.56.176712].SRV1.INF:Main.py.<module>.499:Main Program Started
+[0002].[11100].[18152].[2021.04.04.22.32.56.184717].SRV1.INF:Main.py.<module>.501:Command Line iniFileName=default.ini
+[0003].[11100].[18152].[2021.04.04.22.32.56.191721].SRV1.INF:Main.py.<module>.502:Command Line VerboseMode=None
+[0004].[11100].[18152].[2021.04.04.22.32.56.199727].SRV1.INF:Main.py.<module>.505:AppSpoManager.DebugVerboseModeOn=True
+[0005].[11100].[18152].[2021.04.04.22.32.56.206731].SRV1.INF:Main.py.<module>.506:AppSpoManager.AppDebugMan.DebugInfoMessages=True
+[0006].[11100].[18152].[2021.04.04.22.32.56.214737].SRV1.INF:Main.py.<module>.507:AppSpoManager.DebugErrorMessages=True
+[0007].[11100].[18152].[2021.04.04.22.32.56.221742].SRV1.INF:Main.py.<module>.508:AppSpoManager.DebugTargetConsole=False
+[0008].[11100].[18152].[2021.04.04.22.32.56.228746].SRV1.INF:Main.py.<module>.509:AppSpoManager.DebugTargetFile=True
+[0009].[11100].[18152].[2021.04.04.22.32.56.235751].SRV1.INF:Main.py.<module>.510:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0010].[11100].[18152].[2021.04.04.22.32.56.242756].SRV1.INF:Main.py.<module>.511:AppSpoManager.DebugLinesPerFile=1000
+[0011].[11100].[18152].[2021.04.04.22.32.56.250761].SRV1.INF:Main.py.<module>.512:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0012].[11100].[18152].[2021.04.04.22.32.56.257766].SRV1.INF:Main.py.<module>.518:ModuleFileNameOnly=Main.py
+[0013].[11100].[18152].[2021.04.04.22.32.56.265771].SRV1.INF:Main.py.<module>.520:File=c:\Apps\PythonTry1\Main.py
+[0014].[11100].[18152].[2021.04.04.22.32.56.272776].SRV1.INF:Main.py.<module>.521:FileDirName=c:\Apps\PythonTry1
+[0015].[11100].[18152].[2021.04.04.22.32.56.280782].SRV1.INF:Main.py.<module>.522:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0016].[11100].[18152].[2021.04.04.22.32.56.287786].SRV1.INF:Main.py.<module>.523:ModuleName1=__main__
+[0017].[11100].[18152].[2021.04.04.22.32.56.294790].SRV1.INF:Main.py.<module>.524:ModuleName2=Main
+[0018].[11100].[18152].[2021.04.04.22.32.56.302795].SRV1.INF:Main.py.<module>.526:Main Program Started
+[0019].[11100].[18152].[2021.04.04.22.32.56.309800].SRV1.INF:Main.py.<module>.527:Python Executable Path=C:\Program Files\Python39\python.exe
+[0020].[11100].[18152].[2021.04.04.22.32.56.317806].SRV1.INF:Main.py.<module>.528:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0021].[11100].[18152].[2021.04.04.22.32.56.324811].SRV1.INF:Main.py.<module>.529:PythonShellProcessPID=18152
+[0022].[11100].[18152].[2021.04.04.22.32.56.339822].SRV1.INF:Main.py.<module>.530:PythonShellParentProcessPID=11100
+[0023].[11100].[18152].[2021.04.04.22.32.56.346825].SRV1.INF:Main.py.<module>.533:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0024].[11100].[18152].[2021.04.04.22.32.56.377845].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.368:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANONS
+[0025].[11100].[18152].[2021.04.04.22.32.56.386853].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.382:List of All Nodes Read From IniFile------
+[0026].[11100].[18152].[2021.04.04.22.32.56.397858].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.384:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[11100].[18152].[2021.04.04.22.32.56.406865].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.384:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[11100].[18152].[2021.04.04.22.32.56.414870].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.384:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANONS]
+[0029].[11100].[18152].[2021.04.04.22.32.56.479429].SRV1.INF:Main.py.<module>.567:Creating TestThread1
+[0030].[11100].[18152].[2021.04.04.22.32.56.543977].SRV1.INF:Main.py.<module>.569:Created TestThread1
+[0031].[11100].[18152].[2021.04.04.22.32.56.611528].SRV1.INF:Main.py.<module>.571:Starting TestThread1
+[0032].[11100].[18152].[2021.04.04.22.32.56.686579].SRV1.INF:Main.py.<module>.573:Started TestThread1
+[0033].[11100].[18152].[2021.04.04.22.32.56.744616].SRV1.INF:Main.py.<module>.575:Showing MainWindow
+[0034].[11100].[18152].[2021.04.04.22.32.56.845684].SRV1.INF:Main.py.on_data_ready.38:Cx=1
+[0035].[11100].[18152].[2021.04.04.22.32.56.925738].SRV1.INF:Main.py.on_data_ready.38:Cx=2
+[0036].[11100].[18152].[2021.04.04.22.32.57.011793].SRV1.INF:Main.py.on_data_ready.38:Cx=3
+[0037].[11100].[18152].[2021.04.04.22.32.57.098852].SRV1.INF:Main.py.on_data_ready.38:Cx=4
+[0038].[11100].[18152].[2021.04.04.22.32.57.193914].SRV1.INF:Main.py.on_data_ready.38:Cx=5
+[0039].[11100].[18152].[2021.04.04.22.32.57.290977].SRV1.INF:Main.py.on_data_ready.38:Cx=6
+[0040].[11100].[18152].[2021.04.04.22.32.57.395047].SRV1.INF:Main.py.on_data_ready.38:Cx=7
+[0041].[11100].[18152].[2021.04.04.22.32.57.479105].SRV1.INF:Main.py.on_data_ready.38:Cx=8
+[0042].[11100].[18152].[2021.04.04.22.32.57.593688].SRV1.INF:Main.py.on_data_ready.38:Cx=9
+[0043].[11100].[18152].[2021.04.04.22.32.57.706765].SRV1.INF:Main.py.on_data_ready.38:Cx=10
+[0044].[11100].[18152].[2021.04.04.22.32.57.814835].SRV1.INF:Main.py.on_data_ready.38:Cx=11
+[0045].[11100].[18152].[2021.04.04.22.32.57.895889].SRV1.INF:Main.py.on_data_ready.38:Cx=12
+[0046].[11100].[18152].[2021.04.04.22.32.57.992953].SRV1.INF:Main.py.on_data_ready.38:Cx=13
+[0047].[11100].[18152].[2021.04.04.22.32.58.083014].SRV1.INF:Main.py.on_data_ready.38:Cx=14
+[0048].[11100].[18152].[2021.04.04.22.32.58.178076].SRV1.INF:Main.py.on_data_ready.38:Cx=15
+[0049].[11100].[18152].[2021.04.04.22.32.58.266133].SRV1.INF:Main.py.on_data_ready.38:Cx=16
+[0050].[11100].[18152].[2021.04.04.22.32.58.380210].SRV1.INF:Main.py.on_data_ready.38:Cx=17
+[0051].[11100].[18152].[2021.04.04.22.32.58.493284].SRV1.INF:Main.py.on_data_ready.38:Cx=18
+[0052].[11100].[18152].[2021.04.04.22.32.58.661665].SRV1.INF:Main.py.on_data_ready.38:Cx=19
+[0053].[11100].[18152].[2021.04.04.22.32.58.861832].SRV1.INF:Main.py.on_data_ready.38:Cx=20
+[0054].[11100].[18152].[2021.04.04.22.32.59.046954].SRV1.INF:Main.py.on_data_ready.38:Cx=21
+[0055].[11100].[18152].[2021.04.04.22.32.59.210061].SRV1.INF:Main.py.on_data_ready.38:Cx=22
+[0056].[11100].[18152].[2021.04.04.22.32.59.382176].SRV1.INF:Main.py.on_data_ready.38:Cx=23
+[0057].[11100].[18152].[2021.04.04.22.32.59.550824].SRV1.INF:Main.py.on_data_ready.38:Cx=24
+[0058].[11100].[18152].[2021.04.04.22.32.59.748586].SRV1.INF:Main.py.on_data_ready.38:Cx=25
+[0059].[11100].[18152].[2021.04.04.22.32.59.959762].SRV1.INF:Main.py.on_data_ready.38:Cx=26
+[0060].[11100].[18152].[2021.04.04.22.33.00.066833].SRV1.INF:Main.py.on_data_ready.38:Cx=27
+[0061].[11100].[18152].[2021.04.04.22.33.00.197919].SRV1.INF:Main.py.on_data_ready.38:Cx=28
+[0062].[11100].[18152].[2021.04.04.22.33.00.349019].SRV1.INF:Main.py.on_data_ready.38:Cx=29
+[0063].[11100].[18152].[2021.04.04.22.33.00.466097].SRV1.INF:Main.py.on_data_ready.38:Cx=30
+[0064].[11100].[18152].[2021.04.04.22.33.00.730330].SRV1.INF:Main.py.on_data_ready.38:Cx=31
+[0065].[11100].[18152].[2021.04.04.22.33.00.993505].SRV1.INF:Main.py.on_data_ready.38:Cx=32
+[0066].[11100].[18152].[2021.04.04.22.33.01.359747].SRV1.INF:Main.py.on_data_ready.38:Cx=33
+[0067].[11100].[18152].[2021.04.04.22.33.01.946657].SRV1.INF:Main.py.on_data_ready.38:Cx=34
+[0068].[11100].[18152].[2021.04.04.22.33.02.263866].SRV1.INF:Main.py.on_data_ready.38:Cx=35
+[0069].[11100].[18152].[2021.04.04.22.33.02.462998].SRV1.INF:Main.py.on_data_ready.38:Cx=36
+[0070].[11100].[18152].[2021.04.04.22.33.02.651629].SRV1.INF:Main.py.on_data_ready.38:Cx=37
+[0071].[11100].[18152].[2021.04.04.22.33.02.833268].SRV1.INF:Main.py.on_data_ready.38:Cx=38
+[0072].[11100].[18152].[2021.04.04.22.33.03.192504].SRV1.INF:Main.py.on_data_ready.38:Cx=39
+[0073].[11100].[18152].[2021.04.04.22.33.03.544738].SRV1.INF:Main.py.on_data_ready.38:Cx=40
+[0074].[11100].[18152].[2021.04.04.22.33.03.981048].SRV1.INF:Main.py.on_data_ready.38:Cx=41

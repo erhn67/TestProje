@@ -1,0 +1,36 @@
+[0001].[11444].[7952].[2021.06.14.17.12.20.563223].SRV1.INF:Main.py.<module>.520:Main Program Started
+[0002].[11444].[7952].[2021.06.14.17.12.20.571218].SRV1.INF:Main.py.<module>.522:Command Line iniFileName=default.ini
+[0003].[11444].[7952].[2021.06.14.17.12.20.578213].SRV1.INF:Main.py.<module>.523:Command Line VerboseMode=None
+[0004].[11444].[7952].[2021.06.14.17.12.20.585210].SRV1.INF:Main.py.<module>.526:AppSpoManager.DebugVerboseModeOn=True
+[0005].[11444].[7952].[2021.06.14.17.12.20.592205].SRV1.INF:Main.py.<module>.527:AppSpoManager.AppDebugMan.DebugInfoMessages=True
+[0006].[11444].[7952].[2021.06.14.17.12.20.599200].SRV1.INF:Main.py.<module>.528:AppSpoManager.DebugErrorMessages=True
+[0007].[11444].[7952].[2021.06.14.17.12.20.606197].SRV1.INF:Main.py.<module>.529:AppSpoManager.DebugTargetConsole=False
+[0008].[11444].[7952].[2021.06.14.17.12.20.613192].SRV1.INF:Main.py.<module>.530:AppSpoManager.DebugTargetFile=True
+[0009].[11444].[7952].[2021.06.14.17.12.20.621187].SRV1.INF:Main.py.<module>.531:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0010].[11444].[7952].[2021.06.14.17.12.20.628183].SRV1.INF:Main.py.<module>.532:AppSpoManager.DebugLinesPerFile=1000
+[0011].[11444].[7952].[2021.06.14.17.12.20.635179].SRV1.INF:Main.py.<module>.533:AppSpoManager.AppRunFolder=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1
+[0012].[11444].[7952].[2021.06.14.17.12.20.642174].SRV1.INF:Main.py.<module>.539:ModuleFileNameOnly=Main.py
+[0013].[11444].[7952].[2021.06.14.17.12.20.649170].SRV1.INF:Main.py.<module>.541:File=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1\Main.py
+[0014].[11444].[7952].[2021.06.14.17.12.20.656166].SRV1.INF:Main.py.<module>.542:FileDirName=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1
+[0015].[11444].[7952].[2021.06.14.17.12.20.662162].SRV1.INF:Main.py.<module>.543:FileAbsPath=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1\Main.py
+[0016].[11444].[7952].[2021.06.14.17.12.20.670157].SRV1.INF:Main.py.<module>.544:ModuleName1=__main__
+[0017].[11444].[7952].[2021.06.14.17.12.20.676154].SRV1.INF:Main.py.<module>.545:ModuleName2=Main
+[0018].[11444].[7952].[2021.06.14.17.12.20.683149].SRV1.INF:Main.py.<module>.547:Main Program Started
+[0019].[11444].[7952].[2021.06.14.17.12.20.690145].SRV1.INF:Main.py.<module>.548:Python Executable Path=C:\Users\erhan\AppData\Local\Programs\Python\Python39\python.exe
+[0020].[11444].[7952].[2021.06.14.17.12.20.697140].SRV1.INF:Main.py.<module>.549:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0021].[11444].[7952].[2021.06.14.17.12.20.704136].SRV1.INF:Main.py.<module>.550:PythonShellProcessPID=7952
+[0022].[11444].[7952].[2021.06.14.17.12.20.717128].SRV1.INF:Main.py.<module>.551:PythonShellParentProcessPID=11444
+[0023].[11444].[7952].[2021.06.14.17.12.20.724124].SRV1.INF:Main.py.<module>.554:Sys.Path=['c:\\Users\\erhan\\OneDrive\\Masaüstü\\Erhan_2021.04.05\\PythonTry1', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\python39.zip', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\lib', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39', 'C:\\Users\\erhan\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages']
+[0024].[11444].[7952].[2021.06.14.17.12.20.811332].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.389:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANONS
+[0025].[11444].[7952].[2021.06.14.17.12.20.820327].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.403:List of All Nodes Read From IniFile------
+[0026].[11444].[7952].[2021.06.14.17.12.20.829321].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[11444].[7952].[2021.06.14.17.12.20.838316].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[11444].[7952].[2021.06.14.17.12.20.847310].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANONS]
+[0029].[11444].[7952].[2021.06.14.17.12.20.855306].SRV1.INF:Main.py.<module>.583:Creating TestThread1
+[0030].[11444].[7952].[2021.06.14.17.12.20.863300].SRV1.INF:Main.py.<module>.585:Created TestThread1
+[0031].[11444].[7952].[2021.06.14.17.12.20.871295].SRV1.INF:Main.py.<module>.587:Starting TestThread1
+[0032].[11444].[7952].[2021.06.14.17.12.20.880290].SRV1.INF:Main.py.<module>.589:Started TestThread1
+[0033].[11444].[7952].[2021.06.14.17.12.20.888285].SRV1.INF:Main.py.<module>.591:Showing MainWindow
+[0034].[11444].[7952].[2021.06.14.17.20.22.809294].SRV1.INF:Main.py.actionExitHandler.331:User wanted to exit

@@ -1,0 +1,278 @@
+[0001].[13920].[5492].[2021.04.05.01.38.41.594532].SRV1.INF:Main.py.<module>.514:Main Program Started
+[0002].[13920].[5492].[2021.04.05.01.38.41.602538].SRV1.INF:Main.py.<module>.516:Command Line iniFileName=default.ini
+[0003].[13920].[5492].[2021.04.05.01.38.41.611543].SRV1.INF:Main.py.<module>.517:Command Line VerboseMode=None
+[0004].[13920].[5492].[2021.04.05.01.38.41.622551].SRV1.INF:Main.py.<module>.520:AppSpoManager.DebugVerboseModeOn=True
+[0005].[13920].[5492].[2021.04.05.01.38.41.629556].SRV1.INF:Main.py.<module>.521:AppSpoManager.AppDebugMan.DebugInfoMessages=True
+[0006].[13920].[5492].[2021.04.05.01.38.41.637560].SRV1.INF:Main.py.<module>.522:AppSpoManager.DebugErrorMessages=True
+[0007].[13920].[5492].[2021.04.05.01.38.41.645566].SRV1.INF:Main.py.<module>.523:AppSpoManager.DebugTargetConsole=False
+[0008].[13920].[5492].[2021.04.05.01.38.41.652571].SRV1.INF:Main.py.<module>.524:AppSpoManager.DebugTargetFile=True
+[0009].[13920].[5492].[2021.04.05.01.38.41.660125].SRV1.INF:Main.py.<module>.525:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0010].[13920].[5492].[2021.04.05.01.38.41.667630].SRV1.INF:Main.py.<module>.526:AppSpoManager.DebugLinesPerFile=1000
+[0011].[13920].[5492].[2021.04.05.01.38.41.675135].SRV1.INF:Main.py.<module>.527:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0012].[13920].[5492].[2021.04.05.01.38.41.682640].SRV1.INF:Main.py.<module>.533:ModuleFileNameOnly=Main.py
+[0013].[13920].[5492].[2021.04.05.01.38.41.690145].SRV1.INF:Main.py.<module>.535:File=c:\Apps\PythonTry1\Main.py
+[0014].[13920].[5492].[2021.04.05.01.38.41.697150].SRV1.INF:Main.py.<module>.536:FileDirName=c:\Apps\PythonTry1
+[0015].[13920].[5492].[2021.04.05.01.38.41.704655].SRV1.INF:Main.py.<module>.537:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0016].[13920].[5492].[2021.04.05.01.38.41.712160].SRV1.INF:Main.py.<module>.538:ModuleName1=__main__
+[0017].[13920].[5492].[2021.04.05.01.38.41.719167].SRV1.INF:Main.py.<module>.539:ModuleName2=Main
+[0018].[13920].[5492].[2021.04.05.01.38.41.726672].SRV1.INF:Main.py.<module>.541:Main Program Started
+[0019].[13920].[5492].[2021.04.05.01.38.41.734177].SRV1.INF:Main.py.<module>.542:Python Executable Path=C:\Program Files\Python39\python.exe
+[0020].[13920].[5492].[2021.04.05.01.38.41.741682].SRV1.INF:Main.py.<module>.543:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0021].[13920].[5492].[2021.04.05.01.38.41.748687].SRV1.INF:Main.py.<module>.544:PythonShellProcessPID=5492
+[0022].[13920].[5492].[2021.04.05.01.38.41.762696].SRV1.INF:Main.py.<module>.545:PythonShellParentProcessPID=13920
+[0023].[13920].[5492].[2021.04.05.01.38.41.770201].SRV1.INF:Main.py.<module>.548:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0024].[13920].[5492].[2021.04.05.01.38.41.802723].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.383:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANONS
+[0025].[13920].[5492].[2021.04.05.01.38.41.815734].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.397:List of All Nodes Read From IniFile------
+[0026].[13920].[5492].[2021.04.05.01.38.41.825738].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.399:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[13920].[5492].[2021.04.05.01.38.41.834745].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.399:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[13920].[5492].[2021.04.05.01.38.41.843750].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.399:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANONS]
+[0029].[13920].[5492].[2021.04.05.01.38.41.852256].SRV1.INF:Main.py.<module>.582:Creating TestThread1
+[0030].[13920].[5492].[2021.04.05.01.38.41.860261].SRV1.INF:Main.py.<module>.584:Created TestThread1
+[0031].[13920].[5492].[2021.04.05.01.38.41.868267].SRV1.INF:Main.py.<module>.586:Starting TestThread1
+[0032].[13920].[5492].[2021.04.05.01.38.41.879274].SRV1.INF:Main.py.<module>.588:Started TestThread1
+[0033].[13920].[5492].[2021.04.05.01.38.41.892782].SRV1.INF:Main.py.<module>.590:Showing MainWindow
+[0034].[13920].[5492].[2021.04.05.01.38.41.903289].SRV1.INF:Main.py.on_data_ready.48:Cx=1 Deðer1 from Thread=11916
+[0035].[13920].[5492].[2021.04.05.01.38.41.911294].SRV1.INF:Main.py.on_data_ready.48:Cx=2 Deðer1 from Thread=11916
+[0036].[13920].[5492].[2021.04.05.01.38.41.919300].SRV1.INF:Main.py.on_data_ready.48:Cx=3 Deðer1 from Thread=11916
+[0037].[13920].[5492].[2021.04.05.01.38.41.927305].SRV1.INF:Main.py.on_data_ready.48:Cx=4 Deðer1 from Thread=11916
+[0038].[13920].[5492].[2021.04.05.01.38.41.973836].SRV1.INF:Main.py.on_data_ready.48:Cx=5 Deðer1 from Thread=11916
+[0039].[13920].[5492].[2021.04.05.01.38.41.982846].SRV1.INF:Main.py.on_data_ready.48:Cx=6 Deðer1 from Thread=11916
+[0040].[13920].[5492].[2021.04.05.01.38.41.993421].SRV1.INF:Main.py.on_data_ready.48:Cx=7 Deðer1 from Thread=11916
+[0041].[13920].[5492].[2021.04.05.01.38.42.002428].SRV1.INF:Main.py.on_data_ready.48:Cx=8 Deðer1 from Thread=11916
+[0042].[13920].[5492].[2021.04.05.01.38.42.010433].SRV1.INF:Main.py.on_data_ready.48:Cx=9 Deðer1 from Thread=11916
+[0043].[13920].[5492].[2021.04.05.01.38.42.018439].SRV1.INF:Main.py.on_data_ready.48:Cx=10 Deðer1 from Thread=11916
+[0044].[13920].[5492].[2021.04.05.01.38.42.026444].SRV1.INF:Main.py.on_data_ready.48:Cx=11 Deðer1 from Thread=11916
+[0045].[13920].[5492].[2021.04.05.01.38.42.035451].SRV1.INF:Main.py.on_data_ready.48:Cx=12 Deðer1 from Thread=11916
+[0046].[13920].[5492].[2021.04.05.01.38.42.044457].SRV1.INF:Main.py.on_data_ready.48:Cx=13 Deðer1 from Thread=11916
+[0047].[13920].[5492].[2021.04.05.01.38.42.053462].SRV1.INF:Main.py.on_data_ready.48:Cx=14 Deðer1 from Thread=11916
+[0048].[13920].[5492].[2021.04.05.01.38.42.061468].SRV1.INF:Main.py.on_data_ready.48:Cx=15 Deðer1 from Thread=11916
+[0049].[13920].[5492].[2021.04.05.01.38.42.070475].SRV1.INF:Main.py.on_data_ready.48:Cx=16 Deðer1 from Thread=11916
+[0050].[13920].[5492].[2021.04.05.01.38.42.078479].SRV1.INF:Main.py.on_data_ready.48:Cx=17 Deðer1 from Thread=11916
+[0051].[13920].[5492].[2021.04.05.01.38.42.086484].SRV1.INF:Main.py.on_data_ready.48:Cx=18 Deðer1 from Thread=11916
+[0052].[13920].[5492].[2021.04.05.01.38.42.094490].SRV1.INF:Main.py.on_data_ready.48:Cx=19 Deðer1 from Thread=11916
+[0053].[13920].[5492].[2021.04.05.01.38.42.107498].SRV1.INF:Main.py.on_data_ready.48:Cx=20 Deðer1 from Thread=11916
+[0054].[13920].[5492].[2021.04.05.01.38.42.117506].SRV1.INF:Main.py.on_data_ready.48:Cx=21 Deðer1 from Thread=11916
+[0055].[13920].[5492].[2021.04.05.01.38.42.125511].SRV1.INF:Main.py.on_data_ready.48:Cx=22 Deðer1 from Thread=11916
+[0056].[13920].[5492].[2021.04.05.01.38.42.133515].SRV1.INF:Main.py.on_data_ready.48:Cx=23 Deðer1 from Thread=11916
+[0057].[13920].[5492].[2021.04.05.01.38.42.141522].SRV1.INF:Main.py.on_data_ready.48:Cx=24 Deðer1 from Thread=11916
+[0058].[13920].[5492].[2021.04.05.01.38.42.149527].SRV1.INF:Main.py.on_data_ready.48:Cx=25 Deðer1 from Thread=11916
+[0059].[13920].[5492].[2021.04.05.01.38.42.157533].SRV1.INF:Main.py.on_data_ready.48:Cx=26 Deðer1 from Thread=11916
+[0060].[13920].[5492].[2021.04.05.01.38.42.167537].SRV1.INF:Main.py.on_data_ready.48:Cx=27 Deðer1 from Thread=11916
+[0061].[13920].[5492].[2021.04.05.01.38.42.175542].SRV1.INF:Main.py.on_data_ready.48:Cx=28 Deðer1 from Thread=11916
+[0062].[13920].[5492].[2021.04.05.01.38.42.187554].SRV1.INF:Main.py.on_data_ready.48:Cx=29 Deðer1 from Thread=11916
+[0063].[13920].[5492].[2021.04.05.01.38.42.195556].SRV1.INF:Main.py.on_data_ready.48:Cx=30 Deðer1 from Thread=11916
+[0064].[13920].[5492].[2021.04.05.01.38.42.204562].SRV1.INF:Main.py.on_data_ready.48:Cx=31 Deðer1 from Thread=11916
+[0065].[13920].[5492].[2021.04.05.01.38.42.212568].SRV1.INF:Main.py.on_data_ready.48:Cx=32 Deðer1 from Thread=11916
+[0066].[13920].[5492].[2021.04.05.01.38.42.221576].SRV1.INF:Main.py.on_data_ready.48:Cx=33 Deðer1 from Thread=11916
+[0067].[13920].[5492].[2021.04.05.01.38.42.230580].SRV1.INF:Main.py.on_data_ready.48:Cx=34 Deðer1 from Thread=11916
+[0068].[13920].[5492].[2021.04.05.01.38.42.238586].SRV1.INF:Main.py.on_data_ready.48:Cx=35 Deðer1 from Thread=11916
+[0069].[13920].[5492].[2021.04.05.01.38.42.246590].SRV1.INF:Main.py.on_data_ready.48:Cx=36 Deðer1 from Thread=11916
+[0070].[13920].[5492].[2021.04.05.01.38.42.256596].SRV1.INF:Main.py.on_data_ready.48:Cx=37 Deðer1 from Thread=11916
+[0071].[13920].[5492].[2021.04.05.01.38.42.267604].SRV1.INF:Main.py.on_data_ready.48:Cx=38 Deðer1 from Thread=11916
+[0072].[13920].[5492].[2021.04.05.01.38.42.279612].SRV1.INF:Main.py.on_data_ready.48:Cx=39 Deðer1 from Thread=11916
+[0073].[13920].[5492].[2021.04.05.01.38.42.289620].SRV1.INF:Main.py.on_data_ready.48:Cx=40 Deðer1 from Thread=11916
+[0074].[13920].[5492].[2021.04.05.01.38.42.297625].SRV1.INF:Main.py.on_data_ready.48:Cx=41 Deðer1 from Thread=11916
+[0075].[13920].[5492].[2021.04.05.01.38.42.305630].SRV1.INF:Main.py.on_data_ready.48:Cx=42 Deðer1 from Thread=11916
+[0076].[13920].[5492].[2021.04.05.01.38.42.313635].SRV1.INF:Main.py.on_data_ready.48:Cx=43 Deðer1 from Thread=11916
+[0077].[13920].[5492].[2021.04.05.01.38.42.321641].SRV1.INF:Main.py.on_data_ready.48:Cx=44 Deðer1 from Thread=11916
+[0078].[13920].[5492].[2021.04.05.01.38.42.330646].SRV1.INF:Main.py.on_data_ready.48:Cx=45 Deðer1 from Thread=11916
+[0079].[13920].[5492].[2021.04.05.01.38.42.339653].SRV1.INF:Main.py.on_data_ready.48:Cx=46 Deðer1 from Thread=11916
+[0080].[13920].[5492].[2021.04.05.01.38.42.348658].SRV1.INF:Main.py.on_data_ready.48:Cx=47 Deðer1 from Thread=11916
+[0081].[13920].[5492].[2021.04.05.01.38.42.357664].SRV1.INF:Main.py.on_data_ready.48:Cx=48 Deðer1 from Thread=11916
+[0082].[13920].[5492].[2021.04.05.01.38.42.366670].SRV1.INF:Main.py.on_data_ready.48:Cx=49 Deðer1 from Thread=11916
+[0083].[13920].[5492].[2021.04.05.01.38.42.375676].SRV1.INF:Main.py.on_data_ready.48:Cx=50 Deðer1 from Thread=11916
+[0084].[13920].[5492].[2021.04.05.01.38.42.384682].SRV1.INF:Main.py.on_data_ready.48:Cx=51 Deðer1 from Thread=11916
+[0085].[13920].[5492].[2021.04.05.01.38.42.394688].SRV1.INF:Main.py.on_data_ready.48:Cx=52 Deðer1 from Thread=11916
+[0086].[13920].[5492].[2021.04.05.01.38.42.402693].SRV1.INF:Main.py.on_data_ready.48:Cx=53 Deðer1 from Thread=11916
+[0087].[13920].[5492].[2021.04.05.01.38.42.411699].SRV1.INF:Main.py.on_data_ready.48:Cx=54 Deðer1 from Thread=11916
+[0088].[13920].[5492].[2021.04.05.01.38.42.421706].SRV1.INF:Main.py.on_data_ready.48:Cx=55 Deðer1 from Thread=11916
+[0089].[13920].[5492].[2021.04.05.01.38.42.429711].SRV1.INF:Main.py.on_data_ready.48:Cx=56 Deðer1 from Thread=11916
+[0090].[13920].[5492].[2021.04.05.01.38.42.440719].SRV1.INF:Main.py.on_data_ready.48:Cx=57 Deðer1 from Thread=11916
+[0091].[13920].[5492].[2021.04.05.01.38.42.450725].SRV1.INF:Main.py.on_data_ready.48:Cx=58 Deðer1 from Thread=11916
+[0092].[13920].[5492].[2021.04.05.01.38.42.458732].SRV1.INF:Main.py.on_data_ready.48:Cx=59 Deðer1 from Thread=11916
+[0093].[13920].[5492].[2021.04.05.01.38.42.466740].SRV1.INF:Main.py.on_data_ready.48:Cx=60 Deðer1 from Thread=11916
+[0094].[13920].[5492].[2021.04.05.01.38.42.475743].SRV1.INF:Main.py.on_data_ready.48:Cx=61 Deðer1 from Thread=11916
+[0095].[13920].[5492].[2021.04.05.01.38.42.484748].SRV1.INF:Main.py.on_data_ready.48:Cx=62 Deðer1 from Thread=11916
+[0096].[13920].[5492].[2021.04.05.01.38.42.494755].SRV1.INF:Main.py.on_data_ready.48:Cx=63 Deðer1 from Thread=11916
+[0097].[13920].[5492].[2021.04.05.01.38.42.505763].SRV1.INF:Main.py.on_data_ready.48:Cx=64 Deðer1 from Thread=11916
+[0098].[13920].[5492].[2021.04.05.01.38.42.513768].SRV1.INF:Main.py.on_data_ready.48:Cx=65 Deðer1 from Thread=11916
+[0099].[13920].[5492].[2021.04.05.01.38.42.522774].SRV1.INF:Main.py.on_data_ready.48:Cx=66 Deðer1 from Thread=11916
+[0100].[13920].[5492].[2021.04.05.01.38.42.531780].SRV1.INF:Main.py.on_data_ready.48:Cx=67 Deðer1 from Thread=11916
+[0101].[13920].[5492].[2021.04.05.01.38.42.540785].SRV1.INF:Main.py.on_data_ready.48:Cx=68 Deðer1 from Thread=11916
+[0102].[13920].[5492].[2021.04.05.01.38.42.549792].SRV1.INF:Main.py.on_data_ready.48:Cx=69 Deðer1 from Thread=11916
+[0103].[13920].[5492].[2021.04.05.01.38.42.559798].SRV1.INF:Main.py.on_data_ready.48:Cx=70 Deðer1 from Thread=11916
+[0104].[13920].[5492].[2021.04.05.01.38.42.570807].SRV1.INF:Main.py.on_data_ready.48:Cx=71 Deðer1 from Thread=11916
+[0105].[13920].[5492].[2021.04.05.01.38.42.579810].SRV1.INF:Main.py.on_data_ready.48:Cx=72 Deðer1 from Thread=11916
+[0106].[13920].[5492].[2021.04.05.01.38.42.587817].SRV1.INF:Main.py.on_data_ready.48:Cx=73 Deðer1 from Thread=11916
+[0107].[13920].[5492].[2021.04.05.01.38.42.596822].SRV1.INF:Main.py.on_data_ready.48:Cx=74 Deðer1 from Thread=11916
+[0108].[13920].[5492].[2021.04.05.01.38.42.605829].SRV1.INF:Main.py.on_data_ready.48:Cx=75 Deðer1 from Thread=11916
+[0109].[13920].[5492].[2021.04.05.01.38.42.614833].SRV1.INF:Main.py.on_data_ready.48:Cx=76 Deðer1 from Thread=11916
+[0110].[13920].[5492].[2021.04.05.01.38.42.623841].SRV1.INF:Main.py.on_data_ready.48:Cx=77 Deðer1 from Thread=11916
+[0111].[13920].[5492].[2021.04.05.01.38.42.632846].SRV1.INF:Main.py.on_data_ready.48:Cx=78 Deðer1 from Thread=11916
+[0112].[13920].[5492].[2021.04.05.01.38.42.641853].SRV1.INF:Main.py.on_data_ready.48:Cx=79 Deðer1 from Thread=11916
+[0113].[13920].[5492].[2021.04.05.01.38.42.650859].SRV1.INF:Main.py.on_data_ready.48:Cx=80 Deðer1 from Thread=11916
+[0114].[13920].[5492].[2021.04.05.01.38.42.660864].SRV1.INF:Main.py.on_data_ready.48:Cx=81 Deðer1 from Thread=11916
+[0115].[13920].[5492].[2021.04.05.01.38.42.668870].SRV1.INF:Main.py.on_data_ready.48:Cx=82 Deðer1 from Thread=11916
+[0116].[13920].[5492].[2021.04.05.01.38.42.677875].SRV1.INF:Main.py.on_data_ready.48:Cx=83 Deðer1 from Thread=11916
+[0117].[13920].[5492].[2021.04.05.01.38.42.686882].SRV1.INF:Main.py.on_data_ready.48:Cx=84 Deðer1 from Thread=11916
+[0118].[13920].[5492].[2021.04.05.01.38.42.695888].SRV1.INF:Main.py.on_data_ready.48:Cx=85 Deðer1 from Thread=11916
+[0119].[13920].[5492].[2021.04.05.01.38.42.704894].SRV1.INF:Main.py.on_data_ready.48:Cx=86 Deðer1 from Thread=11916
+[0120].[13920].[5492].[2021.04.05.01.38.42.713900].SRV1.INF:Main.py.on_data_ready.48:Cx=87 Deðer1 from Thread=11916
+[0121].[13920].[5492].[2021.04.05.01.38.42.722905].SRV1.INF:Main.py.on_data_ready.48:Cx=88 Deðer1 from Thread=11916
+[0122].[13920].[5492].[2021.04.05.01.38.42.731912].SRV1.INF:Main.py.on_data_ready.48:Cx=89 Deðer1 from Thread=11916
+[0123].[13920].[5492].[2021.04.05.01.38.42.740917].SRV1.INF:Main.py.on_data_ready.48:Cx=90 Deðer1 from Thread=11916
+[0124].[13920].[5492].[2021.04.05.01.38.42.749928].SRV1.INF:Main.py.on_data_ready.48:Cx=91 Deðer1 from Thread=11916
+[0125].[13920].[5492].[2021.04.05.01.38.42.758433].SRV1.INF:Main.py.on_data_ready.48:Cx=92 Deðer1 from Thread=11916
+[0126].[13920].[5492].[2021.04.05.01.38.42.766942].SRV1.INF:Main.py.on_data_ready.48:Cx=93 Deðer1 from Thread=11916
+[0127].[13920].[5492].[2021.04.05.01.38.42.775949].SRV1.INF:Main.py.on_data_ready.48:Cx=94 Deðer1 from Thread=11916
+[0128].[13920].[5492].[2021.04.05.01.38.42.784954].SRV1.INF:Main.py.on_data_ready.48:Cx=95 Deðer1 from Thread=11916
+[0129].[13920].[5492].[2021.04.05.01.38.42.793960].SRV1.INF:Main.py.on_data_ready.48:Cx=96 Deðer1 from Thread=11916
+[0130].[13920].[5492].[2021.04.05.01.38.42.802967].SRV1.INF:Main.py.on_data_ready.48:Cx=97 Deðer1 from Thread=11916
+[0131].[13920].[5492].[2021.04.05.01.38.42.811975].SRV1.INF:Main.py.on_data_ready.48:Cx=98 Deðer1 from Thread=11916
+[0132].[13920].[5492].[2021.04.05.01.38.42.820979].SRV1.INF:Main.py.on_data_ready.48:Cx=99 Deðer1 from Thread=11916
+[0133].[13920].[5492].[2021.04.05.01.38.42.829987].SRV1.INF:Main.py.on_data_ready.48:Cx=100 Deðer1 from Thread=11916
+[0134].[13920].[5492].[2021.04.05.01.38.42.838991].SRV1.INF:Main.py.on_data_ready.48:Cx=101 Deðer1 from Thread=11916
+[0135].[13920].[5492].[2021.04.05.01.38.42.848996].SRV1.INF:Main.py.on_data_ready.48:Cx=102 Deðer1 from Thread=11916
+[0136].[13920].[5492].[2021.04.05.01.38.42.857504].SRV1.INF:Main.py.on_data_ready.48:Cx=103 Deðer1 from Thread=11916
+[0137].[13920].[5492].[2021.04.05.01.38.42.866010].SRV1.INF:Main.py.on_data_ready.48:Cx=104 Deðer1 from Thread=11916
+[0138].[13920].[5492].[2021.04.05.01.38.42.874519].SRV1.INF:Main.py.on_data_ready.48:Cx=105 Deðer1 from Thread=11916
+[0139].[13920].[5492].[2021.04.05.01.38.42.882525].SRV1.INF:Main.py.on_data_ready.48:Cx=106 Deðer1 from Thread=11916
+[0140].[13920].[5492].[2021.04.05.01.38.42.891530].SRV1.INF:Main.py.on_data_ready.48:Cx=107 Deðer1 from Thread=11916
+[0141].[13920].[5492].[2021.04.05.01.38.42.900575].SRV1.INF:Main.py.on_data_ready.48:Cx=108 Deðer1 from Thread=11916
+[0142].[13920].[5492].[2021.04.05.01.38.42.909082].SRV1.INF:Main.py.on_data_ready.48:Cx=109 Deðer1 from Thread=11916
+[0143].[13920].[5492].[2021.04.05.01.38.42.917588].SRV1.INF:Main.py.on_data_ready.48:Cx=110 Deðer1 from Thread=11916
+[0144].[13920].[5492].[2021.04.05.01.38.42.926093].SRV1.INF:Main.py.on_data_ready.48:Cx=111 Deðer1 from Thread=11916
+[0145].[13920].[5492].[2021.04.05.01.38.42.934599].SRV1.INF:Main.py.on_data_ready.48:Cx=112 Deðer1 from Thread=11916
+[0146].[13920].[5492].[2021.04.05.01.38.42.943106].SRV1.INF:Main.py.on_data_ready.48:Cx=113 Deðer1 from Thread=11916
+[0147].[13920].[5492].[2021.04.05.01.38.42.951610].SRV1.INF:Main.py.on_data_ready.48:Cx=114 Deðer1 from Thread=11916
+[0148].[13920].[5492].[2021.04.05.01.38.42.960114].SRV1.INF:Main.py.on_data_ready.48:Cx=115 Deðer1 from Thread=11916
+[0149].[13920].[5492].[2021.04.05.01.38.42.968620].SRV1.INF:Main.py.on_data_ready.48:Cx=116 Deðer1 from Thread=11916
+[0150].[13920].[5492].[2021.04.05.01.38.42.977127].SRV1.INF:Main.py.on_data_ready.48:Cx=117 Deðer1 from Thread=11916
+[0151].[13920].[5492].[2021.04.05.01.38.42.986132].SRV1.INF:Main.py.on_data_ready.48:Cx=118 Deðer1 from Thread=11916
+[0152].[13920].[5492].[2021.04.05.01.38.42.997641].SRV1.INF:Main.py.on_data_ready.48:Cx=119 Deðer1 from Thread=11916
+[0153].[13920].[5492].[2021.04.05.01.38.43.007146].SRV1.INF:Main.py.on_data_ready.48:Cx=120 Deðer1 from Thread=11916
+[0154].[13920].[5492].[2021.04.05.01.38.43.014650].SRV1.INF:Main.py.on_data_ready.48:Cx=121 Deðer1 from Thread=11916
+[0155].[13920].[5492].[2021.04.05.01.38.43.023658].SRV1.INF:Main.py.on_data_ready.48:Cx=122 Deðer1 from Thread=11916
+[0156].[13920].[5492].[2021.04.05.01.38.43.031664].SRV1.INF:Main.py.on_data_ready.48:Cx=123 Deðer1 from Thread=11916
+[0157].[13920].[5492].[2021.04.05.01.38.43.040670].SRV1.INF:Main.py.on_data_ready.48:Cx=124 Deðer1 from Thread=11916
+[0158].[13920].[5492].[2021.04.05.01.38.43.049175].SRV1.INF:Main.py.on_data_ready.48:Cx=125 Deðer1 from Thread=11916
+[0159].[13920].[5492].[2021.04.05.01.38.43.057681].SRV1.INF:Main.py.on_data_ready.48:Cx=126 Deðer1 from Thread=11916
+[0160].[13920].[5492].[2021.04.05.01.38.43.066185].SRV1.INF:Main.py.on_data_ready.48:Cx=127 Deðer1 from Thread=11916
+[0161].[13920].[5492].[2021.04.05.01.38.43.074692].SRV1.INF:Main.py.on_data_ready.48:Cx=128 Deðer1 from Thread=11916
+[0162].[13920].[5492].[2021.04.05.01.38.43.082698].SRV1.INF:Main.py.on_data_ready.48:Cx=129 Deðer1 from Thread=11916
+[0163].[13920].[5492].[2021.04.05.01.38.43.091203].SRV1.INF:Main.py.on_data_ready.48:Cx=130 Deðer1 from Thread=11916
+[0164].[13920].[5492].[2021.04.05.01.38.43.099709].SRV1.INF:Main.py.on_data_ready.48:Cx=131 Deðer1 from Thread=11916
+[0165].[13920].[5492].[2021.04.05.01.38.43.111215].SRV1.INF:Main.py.on_data_ready.48:Cx=132 Deðer1 from Thread=11916
+[0166].[13920].[5492].[2021.04.05.01.38.43.119721].SRV1.INF:Main.py.on_data_ready.48:Cx=133 Deðer1 from Thread=11916
+[0167].[13920].[5492].[2021.04.05.01.38.43.127726].SRV1.INF:Main.py.on_data_ready.48:Cx=134 Deðer1 from Thread=11916
+[0168].[13920].[5492].[2021.04.05.01.38.43.136732].SRV1.INF:Main.py.on_data_ready.48:Cx=135 Deðer1 from Thread=11916
+[0169].[13920].[5492].[2021.04.05.01.38.43.144737].SRV1.INF:Main.py.on_data_ready.48:Cx=136 Deðer1 from Thread=11916
+[0170].[13920].[5492].[2021.04.05.01.38.43.153243].SRV1.INF:Main.py.on_data_ready.48:Cx=137 Deðer1 from Thread=11916
+[0171].[13920].[5492].[2021.04.05.01.38.43.161748].SRV1.INF:Main.py.on_data_ready.48:Cx=138 Deðer1 from Thread=11916
+[0172].[13920].[5492].[2021.04.05.01.38.43.170254].SRV1.INF:Main.py.on_data_ready.48:Cx=139 Deðer1 from Thread=11916
+[0173].[13920].[5492].[2021.04.05.01.38.43.178760].SRV1.INF:Main.py.on_data_ready.48:Cx=140 Deðer1 from Thread=11916
+[0174].[13920].[5492].[2021.04.05.01.38.43.187766].SRV1.INF:Main.py.on_data_ready.48:Cx=141 Deðer1 from Thread=11916
+[0175].[13920].[5492].[2021.04.05.01.38.43.196271].SRV1.INF:Main.py.on_data_ready.48:Cx=142 Deðer1 from Thread=11916
+[0176].[13920].[5492].[2021.04.05.01.38.43.204276].SRV1.INF:Main.py.on_data_ready.48:Cx=143 Deðer1 from Thread=11916
+[0177].[13920].[5492].[2021.04.05.01.38.43.212782].SRV1.INF:Main.py.on_data_ready.48:Cx=144 Deðer1 from Thread=11916
+[0178].[13920].[5492].[2021.04.05.01.38.43.221288].SRV1.INF:Main.py.on_data_ready.48:Cx=145 Deðer1 from Thread=11916
+[0179].[13920].[5492].[2021.04.05.01.38.43.229793].SRV1.INF:Main.py.on_data_ready.48:Cx=146 Deðer1 from Thread=11916
+[0180].[13920].[5492].[2021.04.05.01.38.43.239800].SRV1.INF:Main.py.on_data_ready.48:Cx=147 Deðer1 from Thread=11916
+[0181].[13920].[5492].[2021.04.05.01.38.43.247805].SRV1.INF:Main.py.on_data_ready.48:Cx=148 Deðer1 from Thread=11916
+[0182].[13920].[5492].[2021.04.05.01.38.43.257312].SRV1.INF:Main.py.on_data_ready.48:Cx=149 Deðer1 from Thread=11916
+[0183].[13920].[5492].[2021.04.05.01.38.43.266818].SRV1.INF:Main.py.on_data_ready.48:Cx=150 Deðer1 from Thread=11916
+[0184].[13920].[5492].[2021.04.05.01.38.43.278326].SRV1.INF:Main.py.on_data_ready.48:Cx=151 Deðer1 from Thread=11916
+[0185].[13920].[5492].[2021.04.05.01.38.43.288332].SRV1.INF:Main.py.on_data_ready.48:Cx=152 Deðer1 from Thread=11916
+[0186].[13920].[5492].[2021.04.05.01.38.43.296337].SRV1.INF:Main.py.on_data_ready.48:Cx=153 Deðer1 from Thread=11916
+[0187].[13920].[5492].[2021.04.05.01.38.43.305343].SRV1.INF:Main.py.on_data_ready.48:Cx=154 Deðer1 from Thread=11916
+[0188].[13920].[5492].[2021.04.05.01.38.43.314349].SRV1.INF:Main.py.on_data_ready.48:Cx=155 Deðer1 from Thread=11916
+[0189].[13920].[5492].[2021.04.05.01.38.43.322855].SRV1.INF:Main.py.on_data_ready.48:Cx=156 Deðer1 from Thread=11916
+[0190].[13920].[5492].[2021.04.05.01.38.43.331361].SRV1.INF:Main.py.on_data_ready.48:Cx=157 Deðer1 from Thread=11916
+[0191].[13920].[5492].[2021.04.05.01.38.43.339866].SRV1.INF:Main.py.on_data_ready.48:Cx=158 Deðer1 from Thread=11916
+[0192].[13920].[5492].[2021.04.05.01.38.43.347872].SRV1.INF:Main.py.on_data_ready.48:Cx=159 Deðer1 from Thread=11916
+[0193].[13920].[5492].[2021.04.05.01.38.43.356878].SRV1.INF:Main.py.on_data_ready.48:Cx=160 Deðer1 from Thread=11916
+[0194].[13920].[5492].[2021.04.05.01.38.43.365384].SRV1.INF:Main.py.on_data_ready.48:Cx=161 Deðer1 from Thread=11916
+[0195].[13920].[5492].[2021.04.05.01.38.43.373889].SRV1.INF:Main.py.on_data_ready.48:Cx=162 Deðer1 from Thread=11916
+[0196].[13920].[5492].[2021.04.05.01.38.43.382395].SRV1.INF:Main.py.on_data_ready.48:Cx=163 Deðer1 from Thread=11916
+[0197].[13920].[5492].[2021.04.05.01.38.43.390900].SRV1.INF:Main.py.on_data_ready.48:Cx=164 Deðer1 from Thread=11916
+[0198].[13920].[5492].[2021.04.05.01.38.43.399906].SRV1.INF:Main.py.on_data_ready.48:Cx=165 Deðer1 from Thread=11916
+[0199].[13920].[5492].[2021.04.05.01.38.43.408412].SRV1.INF:Main.py.on_data_ready.48:Cx=166 Deðer1 from Thread=11916
+[0200].[13920].[5492].[2021.04.05.01.38.43.417918].SRV1.INF:Main.py.on_data_ready.48:Cx=167 Deðer1 from Thread=11916
+[0201].[13920].[5492].[2021.04.05.01.38.43.426424].SRV1.INF:Main.py.on_data_ready.48:Cx=168 Deðer1 from Thread=11916
+[0202].[13920].[5492].[2021.04.05.01.38.43.435429].SRV1.INF:Main.py.on_data_ready.48:Cx=169 Deðer1 from Thread=11916
+[0203].[13920].[5492].[2021.04.05.01.38.43.443935].SRV1.INF:Main.py.on_data_ready.48:Cx=170 Deðer1 from Thread=11916
+[0204].[13920].[5492].[2021.04.05.01.38.43.453441].SRV1.INF:Main.py.on_data_ready.48:Cx=171 Deðer1 from Thread=11916
+[0205].[13920].[5492].[2021.04.05.01.38.43.462949].SRV1.INF:Main.py.on_data_ready.48:Cx=172 Deðer1 from Thread=11916
+[0206].[13920].[5492].[2021.04.05.01.38.43.471955].SRV1.INF:Main.py.on_data_ready.48:Cx=173 Deðer1 from Thread=11916
+[0207].[13920].[5492].[2021.04.05.01.38.43.480961].SRV1.INF:Main.py.on_data_ready.48:Cx=174 Deðer1 from Thread=11916
+[0208].[13920].[5492].[2021.04.05.01.38.43.489466].SRV1.INF:Main.py.on_data_ready.48:Cx=175 Deðer1 from Thread=11916
+[0209].[13920].[5492].[2021.04.05.01.38.43.497972].SRV1.INF:Main.py.on_data_ready.48:Cx=176 Deðer1 from Thread=11916
+[0210].[13920].[5492].[2021.04.05.01.38.43.506978].SRV1.INF:Main.py.on_data_ready.48:Cx=177 Deðer1 from Thread=11916
+[0211].[13920].[5492].[2021.04.05.01.38.43.515984].SRV1.INF:Main.py.on_data_ready.48:Cx=178 Deðer1 from Thread=11916
+[0212].[13920].[5492].[2021.04.05.01.38.43.523989].SRV1.INF:Main.py.on_data_ready.48:Cx=179 Deðer1 from Thread=11916
+[0213].[13920].[5492].[2021.04.05.01.38.43.532495].SRV1.INF:Main.py.on_data_ready.48:Cx=180 Deðer1 from Thread=11916
+[0214].[13920].[5492].[2021.04.05.01.38.43.541500].SRV1.INF:Main.py.on_data_ready.48:Cx=181 Deðer1 from Thread=11916
+[0215].[13920].[5492].[2021.04.05.01.38.43.552507].SRV1.INF:Main.py.on_data_ready.48:Cx=182 Deðer1 from Thread=11916
+[0216].[13920].[5492].[2021.04.05.01.38.43.561012].SRV1.INF:Main.py.on_data_ready.48:Cx=183 Deðer1 from Thread=11916
+[0217].[13920].[5492].[2021.04.05.01.38.43.569018].SRV1.INF:Main.py.on_data_ready.48:Cx=184 Deðer1 from Thread=11916
+[0218].[13920].[5492].[2021.04.05.01.38.43.577523].SRV1.INF:Main.py.on_data_ready.48:Cx=185 Deðer1 from Thread=11916
+[0219].[13920].[5492].[2021.04.05.01.38.43.586029].SRV1.INF:Main.py.on_data_ready.48:Cx=186 Deðer1 from Thread=11916
+[0220].[13920].[5492].[2021.04.05.01.38.43.594536].SRV1.INF:Main.py.on_data_ready.48:Cx=187 Deðer1 from Thread=11916
+[0221].[13920].[5492].[2021.04.05.01.38.43.603541].SRV1.INF:Main.py.on_data_ready.48:Cx=188 Deðer1 from Thread=11916
+[0222].[13920].[5492].[2021.04.05.01.38.43.611547].SRV1.INF:Main.py.on_data_ready.48:Cx=189 Deðer1 from Thread=11916
+[0223].[13920].[5492].[2021.04.05.01.38.43.620053].SRV1.INF:Main.py.on_data_ready.48:Cx=190 Deðer1 from Thread=11916
+[0224].[13920].[5492].[2021.04.05.01.38.43.628557].SRV1.INF:Main.py.on_data_ready.48:Cx=191 Deðer1 from Thread=11916
+[0225].[13920].[5492].[2021.04.05.01.38.43.637063].SRV1.INF:Main.py.on_data_ready.48:Cx=192 Deðer1 from Thread=11916
+[0226].[13920].[5492].[2021.04.05.01.38.43.645569].SRV1.INF:Main.py.on_data_ready.48:Cx=193 Deðer1 from Thread=11916
+[0227].[13920].[5492].[2021.04.05.01.38.43.656577].SRV1.INF:Main.py.on_data_ready.48:Cx=194 Deðer1 from Thread=11916
+[0228].[13920].[5492].[2021.04.05.01.38.43.665083].SRV1.INF:Main.py.on_data_ready.48:Cx=195 Deðer1 from Thread=11916
+[0229].[13920].[5492].[2021.04.05.01.38.43.673089].SRV1.INF:Main.py.on_data_ready.48:Cx=196 Deðer1 from Thread=11916
+[0230].[13920].[5492].[2021.04.05.01.38.43.714115].SRV1.INF:Main.py.on_data_ready.48:Cx=197 Deðer1 from Thread=11916
+[0231].[13920].[5492].[2021.04.05.01.38.43.723121].SRV1.INF:Main.py.on_data_ready.48:Cx=198 Deðer1 from Thread=11916
+[0232].[13920].[5492].[2021.04.05.01.38.43.732627].SRV1.INF:Main.py.on_data_ready.48:Cx=199 Deðer1 from Thread=11916
+[0233].[13920].[5492].[2021.04.05.01.38.43.741132].SRV1.INF:Main.py.on_data_ready.48:Cx=200 Deðer1 from Thread=11916
+[0234].[13920].[5492].[2021.04.05.01.38.43.773153].SRV1.INF:Main.py.on_data_ready.48:Cx=201 Deðer1 from Thread=11916
+[0235].[13920].[5492].[2021.04.05.01.38.43.782162].SRV1.INF:Main.py.on_data_ready.48:Cx=202 Deðer1 from Thread=11916
+[0236].[13920].[5492].[2021.04.05.01.38.43.791668].SRV1.INF:Main.py.on_data_ready.48:Cx=203 Deðer1 from Thread=11916
+[0237].[13920].[5492].[2021.04.05.01.38.43.802175].SRV1.INF:Main.py.on_data_ready.48:Cx=204 Deðer1 from Thread=11916
+[0238].[13920].[5492].[2021.04.05.01.38.43.811181].SRV1.INF:Main.py.on_data_ready.48:Cx=205 Deðer1 from Thread=11916
+[0239].[13920].[5492].[2021.04.05.01.38.43.819687].SRV1.INF:Main.py.on_data_ready.48:Cx=206 Deðer1 from Thread=11916
+[0240].[13920].[5492].[2021.04.05.01.38.43.829194].SRV1.INF:Main.py.on_data_ready.48:Cx=207 Deðer1 from Thread=11916
+[0241].[13920].[5492].[2021.04.05.01.38.43.838200].SRV1.INF:Main.py.on_data_ready.48:Cx=208 Deðer1 from Thread=11916
+[0242].[13920].[5492].[2021.04.05.01.38.43.847707].SRV1.INF:Main.py.on_data_ready.48:Cx=209 Deðer1 from Thread=11916
+[0243].[13920].[5492].[2021.04.05.01.38.43.856712].SRV1.INF:Main.py.on_data_ready.48:Cx=210 Deðer1 from Thread=11916
+[0244].[13920].[5492].[2021.04.05.01.38.43.865718].SRV1.INF:Main.py.on_data_ready.48:Cx=211 Deðer1 from Thread=11916
+[0245].[13920].[5492].[2021.04.05.01.38.43.874723].SRV1.INF:Main.py.on_data_ready.48:Cx=212 Deðer1 from Thread=11916
+[0246].[13920].[5492].[2021.04.05.01.38.43.890235].SRV1.INF:Main.py.on_data_ready.48:Cx=213 Deðer1 from Thread=11916
+[0247].[13920].[5492].[2021.04.05.01.38.43.901242].SRV1.INF:Main.py.on_data_ready.48:Cx=214 Deðer1 from Thread=11916
+[0248].[13920].[5492].[2021.04.05.01.38.43.911248].SRV1.INF:Main.py.on_data_ready.48:Cx=215 Deðer1 from Thread=11916
+[0249].[13920].[5492].[2021.04.05.01.38.43.921255].SRV1.INF:Main.py.on_data_ready.48:Cx=216 Deðer1 from Thread=11916
+[0250].[13920].[5492].[2021.04.05.01.38.43.930761].SRV1.INF:Main.py.on_data_ready.48:Cx=217 Deðer1 from Thread=11916
+[0251].[13920].[5492].[2021.04.05.01.38.43.940767].SRV1.INF:Main.py.on_data_ready.48:Cx=218 Deðer1 from Thread=11916
+[0252].[13920].[5492].[2021.04.05.01.38.43.955777].SRV1.INF:Main.py.on_data_ready.48:Cx=219 Deðer1 from Thread=11916
+[0253].[13920].[5492].[2021.04.05.01.38.43.965783].SRV1.INF:Main.py.on_data_ready.48:Cx=220 Deðer1 from Thread=11916
+[0254].[13920].[5492].[2021.04.05.01.38.43.975790].SRV1.INF:Main.py.on_data_ready.48:Cx=221 Deðer1 from Thread=11916
+[0255].[13920].[5492].[2021.04.05.01.38.43.986797].SRV1.INF:Main.py.on_data_ready.48:Cx=222 Deðer1 from Thread=11916
+[0256].[13920].[5492].[2021.04.05.01.38.43.999307].SRV1.INF:Main.py.on_data_ready.48:Cx=223 Deðer1 from Thread=11916
+[0257].[13920].[5492].[2021.04.05.01.38.44.008812].SRV1.INF:Main.py.on_data_ready.48:Cx=224 Deðer1 from Thread=11916
+[0258].[13920].[5492].[2021.04.05.01.38.44.018320].SRV1.INF:Main.py.on_data_ready.48:Cx=225 Deðer1 from Thread=11916
+[0259].[13920].[5492].[2021.04.05.01.38.44.027325].SRV1.INF:Main.py.on_data_ready.48:Cx=226 Deðer1 from Thread=11916
+[0260].[13920].[5492].[2021.04.05.01.38.44.036832].SRV1.INF:Main.py.on_data_ready.48:Cx=227 Deðer1 from Thread=11916
+[0261].[13920].[5492].[2021.04.05.01.38.44.046338].SRV1.INF:Main.py.on_data_ready.48:Cx=228 Deðer1 from Thread=11916
+[0262].[13920].[5492].[2021.04.05.01.38.44.055846].SRV1.INF:Main.py.on_data_ready.48:Cx=229 Deðer1 from Thread=11916
+[0263].[13920].[5492].[2021.04.05.01.38.44.065851].SRV1.INF:Main.py.on_data_ready.48:Cx=230 Deðer1 from Thread=11916
+[0264].[13920].[5492].[2021.04.05.01.38.44.078859].SRV1.INF:Main.py.on_data_ready.48:Cx=231 Deðer1 from Thread=11916
+[0265].[13920].[5492].[2021.04.05.01.38.44.089368].SRV1.INF:Main.py.on_data_ready.48:Cx=232 Deðer1 from Thread=11916
+[0266].[13920].[5492].[2021.04.05.01.38.44.098872].SRV1.INF:Main.py.on_data_ready.48:Cx=233 Deðer1 from Thread=11916
+[0267].[13920].[5492].[2021.04.05.01.38.44.108880].SRV1.INF:Main.py.on_data_ready.48:Cx=234 Deðer1 from Thread=11916
+[0268].[13920].[5492].[2021.04.05.01.38.44.118886].SRV1.INF:Main.py.on_data_ready.48:Cx=235 Deðer1 from Thread=11916
+[0269].[13920].[5492].[2021.04.05.01.38.44.128393].SRV1.INF:Main.py.on_data_ready.48:Cx=236 Deðer1 from Thread=11916
+[0270].[13920].[5492].[2021.04.05.01.38.44.139399].SRV1.INF:Main.py.on_data_ready.48:Cx=237 Deðer1 from Thread=11916
+[0271].[13920].[5492].[2021.04.05.01.38.44.153409].SRV1.INF:Main.py.on_data_ready.48:Cx=238 Deðer1 from Thread=11916
+[0272].[13920].[5492].[2021.04.05.01.38.44.162914].SRV1.INF:Main.py.on_data_ready.48:Cx=239 Deðer1 from Thread=11916
+[0273].[13920].[5492].[2021.04.05.01.38.44.171921].SRV1.INF:Main.py.on_data_ready.48:Cx=240 Deðer1 from Thread=11916
+[0274].[13920].[5492].[2021.04.05.01.38.44.181428].SRV1.INF:Main.py.on_data_ready.48:Cx=241 Deðer1 from Thread=11916
+[0275].[13920].[5492].[2021.04.05.01.38.44.190933].SRV1.INF:Main.py.on_data_ready.48:Cx=242 Deðer1 from Thread=11916
+[0276].[13920].[5492].[2021.04.05.01.38.44.204943].SRV1.INF:Main.py.on_data_ready.48:Cx=243 Deðer1 from Thread=11916

@@ -1,0 +1,63 @@
+[0001].[18340].[11344].[2021.04.05.01.44.56.088928].SRV1.INF:Main.py.<module>.516:Main Program Started
+[0002].[18340].[11344].[2021.04.05.01.44.56.096934].SRV1.INF:Main.py.<module>.518:Command Line iniFileName=default.ini
+[0003].[18340].[11344].[2021.04.05.01.44.56.103937].SRV1.INF:Main.py.<module>.519:Command Line VerboseMode=None
+[0004].[18340].[11344].[2021.04.05.01.44.56.110941].SRV1.INF:Main.py.<module>.522:AppSpoManager.DebugVerboseModeOn=True
+[0005].[18340].[11344].[2021.04.05.01.44.56.117947].SRV1.INF:Main.py.<module>.523:AppSpoManager.AppDebugMan.DebugInfoMessages=True
+[0006].[18340].[11344].[2021.04.05.01.44.56.124952].SRV1.INF:Main.py.<module>.524:AppSpoManager.DebugErrorMessages=True
+[0007].[18340].[11344].[2021.04.05.01.44.56.132956].SRV1.INF:Main.py.<module>.525:AppSpoManager.DebugTargetConsole=False
+[0008].[18340].[11344].[2021.04.05.01.44.56.139961].SRV1.INF:Main.py.<module>.526:AppSpoManager.DebugTargetFile=True
+[0009].[18340].[11344].[2021.04.05.01.44.56.146965].SRV1.INF:Main.py.<module>.527:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0010].[18340].[11344].[2021.04.05.01.44.56.153970].SRV1.INF:Main.py.<module>.528:AppSpoManager.DebugLinesPerFile=1000
+[0011].[18340].[11344].[2021.04.05.01.44.56.160975].SRV1.INF:Main.py.<module>.529:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0012].[18340].[11344].[2021.04.05.01.44.56.167979].SRV1.INF:Main.py.<module>.535:ModuleFileNameOnly=Main.py
+[0013].[18340].[11344].[2021.04.05.01.44.56.174984].SRV1.INF:Main.py.<module>.537:File=c:\Apps\PythonTry1\Main.py
+[0014].[18340].[11344].[2021.04.05.01.44.56.180988].SRV1.INF:Main.py.<module>.538:FileDirName=c:\Apps\PythonTry1
+[0015].[18340].[11344].[2021.04.05.01.44.56.187993].SRV1.INF:Main.py.<module>.539:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0016].[18340].[11344].[2021.04.05.01.44.56.193997].SRV1.INF:Main.py.<module>.540:ModuleName1=__main__
+[0017].[18340].[11344].[2021.04.05.01.44.56.201001].SRV1.INF:Main.py.<module>.541:ModuleName2=Main
+[0018].[18340].[11344].[2021.04.05.01.44.56.207007].SRV1.INF:Main.py.<module>.543:Main Program Started
+[0019].[18340].[11344].[2021.04.05.01.44.56.214009].SRV1.INF:Main.py.<module>.544:Python Executable Path=C:\Program Files\Python39\python.exe
+[0020].[18340].[11344].[2021.04.05.01.44.56.221014].SRV1.INF:Main.py.<module>.545:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0021].[18340].[11344].[2021.04.05.01.44.56.227018].SRV1.INF:Main.py.<module>.546:PythonShellProcessPID=11344
+[0022].[18340].[11344].[2021.04.05.01.44.56.240028].SRV1.INF:Main.py.<module>.547:PythonShellParentProcessPID=18340
+[0023].[18340].[11344].[2021.04.05.01.44.56.246031].SRV1.INF:Main.py.<module>.550:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0024].[18340].[11344].[2021.04.05.01.44.56.279053].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.385:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANONS
+[0025].[18340].[11344].[2021.04.05.01.44.56.292062].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.399:List of All Nodes Read From IniFile------
+[0026].[18340].[11344].[2021.04.05.01.44.56.301069].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.401:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[18340].[11344].[2021.04.05.01.44.56.310073].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.401:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[18340].[11344].[2021.04.05.01.44.56.318082].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.401:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANONS]
+[0029].[18340].[11344].[2021.04.05.01.44.56.327085].SRV1.INF:Main.py.<module>.587:Creating TestThread1
+[0030].[18340].[11344].[2021.04.05.01.44.56.334089].SRV1.INF:Main.py.<module>.589:Created TestThread1
+[0031].[18340].[11344].[2021.04.05.01.44.56.342095].SRV1.INF:Main.py.<module>.591:Starting TestThread1
+[0032].[18340].[11344].[2021.04.05.01.44.56.349101].SRV1.INF:Main.py.<module>.593:Started TestThread1
+[0033].[18340].[11344].[2021.04.05.01.44.56.357103].SRV1.INF:Main.py.<module>.595:Showing MainWindow
+[0034].[18340].[11344].[2021.04.05.01.44.57.328853].SRV1.INF:Main.py.on_data_ready.50:Cx=1 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0035].[18340].[11344].[2021.04.05.01.44.57.346864].SRV1.INF:Main.py.on_data_ready.50:Cx=1 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0036].[18340].[11344].[2021.04.05.01.44.58.334748].SRV1.INF:Main.py.on_data_ready.50:Cx=2 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0037].[18340].[11344].[2021.04.05.01.44.58.342753].SRV1.INF:Main.py.on_data_ready.50:Cx=2 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0038].[18340].[11344].[2021.04.05.01.44.59.330875].SRV1.INF:Main.py.on_data_ready.50:Cx=3 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0039].[18340].[11344].[2021.04.05.01.44.59.348888].SRV1.INF:Main.py.on_data_ready.50:Cx=3 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0040].[18340].[11344].[2021.04.05.01.45.00.328948].SRV1.INF:Main.py.on_data_ready.50:Cx=4 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0041].[18340].[11344].[2021.04.05.01.45.00.337955].SRV1.INF:Main.py.on_data_ready.50:Cx=4 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0042].[18340].[11344].[2021.04.05.01.45.01.331222].SRV1.INF:Main.py.on_data_ready.50:Cx=5 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0043].[18340].[11344].[2021.04.05.01.45.01.350239].SRV1.INF:Main.py.on_data_ready.50:Cx=5 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0044].[18340].[11344].[2021.04.05.01.45.02.332177].SRV1.INF:Main.py.on_data_ready.50:Cx=6 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0045].[18340].[11344].[2021.04.05.01.45.02.351190].SRV1.INF:Main.py.on_data_ready.50:Cx=6 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0046].[18340].[11344].[2021.04.05.01.45.03.332892].SRV1.INF:Main.py.on_data_ready.50:Cx=7 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0047].[18340].[11344].[2021.04.05.01.45.03.350044].SRV1.INF:Main.py.on_data_ready.50:Cx=7 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0048].[18340].[11344].[2021.04.05.01.45.04.333441].SRV1.INF:Main.py.on_data_ready.50:Cx=8 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0049].[18340].[11344].[2021.04.05.01.45.04.352452].SRV1.INF:Main.py.on_data_ready.50:Cx=8 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0050].[18340].[11344].[2021.04.05.01.45.05.333655].SRV1.INF:Main.py.on_data_ready.50:Cx=9 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0051].[18340].[11344].[2021.04.05.01.45.05.352668].SRV1.INF:Main.py.on_data_ready.50:Cx=9 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0052].[18340].[11344].[2021.04.05.01.45.06.334052].SRV1.INF:Main.py.on_data_ready.50:Cx=10 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0053].[18340].[11344].[2021.04.05.01.45.06.358069].SRV1.INF:Main.py.on_data_ready.50:Cx=10 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0054].[18340].[11344].[2021.04.05.01.45.07.334878].SRV1.INF:Main.py.on_data_ready.50:Cx=11 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0055].[18340].[11344].[2021.04.05.01.45.07.355888].SRV1.INF:Main.py.on_data_ready.50:Cx=11 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0056].[18340].[11344].[2021.04.05.01.45.08.333471].SRV1.INF:Main.py.on_data_ready.50:Cx=12 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0057].[18340].[11344].[2021.04.05.01.45.08.353483].SRV1.INF:Main.py.on_data_ready.50:Cx=12 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0058].[18340].[11344].[2021.04.05.01.45.09.333787].SRV1.INF:Main.py.on_data_ready.50:Cx=13 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0059].[18340].[11344].[2021.04.05.01.45.09.353807].SRV1.INF:Main.py.on_data_ready.50:Cx=13 Deðer1 from ThreadName=TH1 ThreadID=7152
+[0060].[18340].[11344].[2021.04.05.01.45.10.335766].SRV1.INF:Main.py.on_data_ready.50:Cx=14 Deðer1 from ThreadName=TH2 ThreadID=14260
+[0061].[18340].[11344].[2021.04.05.01.45.10.354809].SRV1.INF:Main.py.on_data_ready.50:Cx=14 Deðer1 from ThreadName=TH1 ThreadID=7152

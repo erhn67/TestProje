@@ -1,0 +1,3 @@
+[0001].[2021.04.03.19.05.39.151811].SRV1.INF:Main.py.<module>.325:Main Program Started
+[0002].[2021.04.03.19.05.39.152311].SRV1.ERR:Main.py.<module>.328:Artificial Error Message for testing purpose
+[0003].[2021.04.03.19.05.39.152812].SRV1.INF:Main.py.<module>.329:Command Line iniFileName=default.ini

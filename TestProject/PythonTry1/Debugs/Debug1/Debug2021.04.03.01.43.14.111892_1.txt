@@ -1,0 +1,126 @@
+[0001].[2021.04.03.01.43.14.129903].SRV1.INF:Main.py.<module>.315:Main Program Started
+[0002].[2021.04.03.01.43.14.130904].SRV1.ERR:Main.py.<module>.318:Artificial Error Message for testing purpose
+[0003].[2021.04.03.01.43.14.130904].SRV1.INF:Main.py.<module>.319:Command Line iniFileName=default.ini
+[0004].[2021.04.03.01.43.14.131905].SRV1.INF:Main.py.<module>.321:Command Line VerboseMode=None
+[0005].[2021.04.03.01.43.14.131905].SRV1.INF:Main.py.<module>.324:AppSpoManager.DebugVerboseModeOn=True
+[0006].[2021.04.03.01.43.14.132906].SRV1.INF:Main.py.<module>.325:AppSpoManager.DebugInfoMessages=True
+[0007].[2021.04.03.01.43.14.132906].SRV1.INF:Main.py.<module>.326:AppSpoManager.DebugErrorMessages=True
+[0008].[2021.04.03.01.43.14.133906].SRV1.INF:Main.py.<module>.327:AppSpoManager.DebugTargetConsole=False
+[0009].[2021.04.03.01.43.14.133906].SRV1.INF:Main.py.<module>.328:AppSpoManager.DebugTargetFile=True
+[0010].[2021.04.03.01.43.14.134907].SRV1.INF:Main.py.<module>.329:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0011].[2021.04.03.01.43.14.134907].SRV1.INF:Main.py.<module>.330:AppSpoManager.DebugLinesPerFile=1000
+[0012].[2021.04.03.01.43.14.135908].SRV1.INF:Main.py.<module>.331:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0013].[2021.04.03.01.43.14.135908].SRV1.INF:Main.py.<module>.354:ModuleFileNameOnly=Main.py
+[0014].[2021.04.03.01.43.14.136908].SRV1.INF:Main.py.<module>.362:File=c:\Apps\PythonTry1\Main.py
+[0015].[2021.04.03.01.43.14.136908].SRV1.INF:Main.py.<module>.363:FileDirName=c:\Apps\PythonTry1
+[0016].[2021.04.03.01.43.14.137909].SRV1.INF:Main.py.<module>.364:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0017].[2021.04.03.01.43.14.137909].SRV1.INF:Main.py.<module>.367:ModuleName1=__main__
+[0018].[2021.04.03.01.43.14.138909].SRV1.INF:Main.py.<module>.368:ModuleName2=Main
+[0019].[2021.04.03.01.43.14.138909].SRV1.INF:Main.py.<module>.377:Main Program Started
+[0020].[2021.04.03.01.43.14.139910].SRV1.INF:Main.py.<module>.378:Python Executable Path=C:\Program Files\Python39\python.exe
+[0021].[2021.04.03.01.43.14.139910].SRV1.INF:Main.py.<module>.379:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0022].[2021.04.03.01.43.14.140912].SRV1.INF:Main.py.<module>.382:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0023].[2021.04.03.01.43.14.174935].SRV1.INF:Main.py.<module>.429:Showing MainWindow
+[0024].[2021.04.03.01.43.15.423811].SRV1.INF:Main.py.actionDebugTest1Handler.154:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS
+[0025].[2021.04.03.01.43.15.425312].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[0]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0026].[2021.04.03.01.43.15.426312].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[1]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0027].[2021.04.03.01.43.15.426813].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[2]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0028].[2021.04.03.01.43.15.427814].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[3]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0029].[2021.04.03.01.43.15.428814].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[4]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0030].[2021.04.03.01.43.15.429815].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[5]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0031].[2021.04.03.01.43.15.430316].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[6]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0032].[2021.04.03.01.43.15.431316].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[7]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0033].[2021.04.03.01.43.15.432316].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[8]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0034].[2021.04.03.01.43.15.433317].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[9]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0035].[2021.04.03.01.43.15.433817].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[10]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0036].[2021.04.03.01.43.15.434818].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[11]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0037].[2021.04.03.01.43.15.435318].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[12]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0038].[2021.04.03.01.43.15.436319].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[13]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0039].[2021.04.03.01.43.15.440822].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[14]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0040].[2021.04.03.01.43.15.441322].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[15]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0041].[2021.04.03.01.43.15.442323].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[16]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0042].[2021.04.03.01.43.15.443323].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[17]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0043].[2021.04.03.01.43.15.444324].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[18]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0044].[2021.04.03.01.43.15.444825].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[19]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0045].[2021.04.03.01.43.15.445825].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[20]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0046].[2021.04.03.01.43.15.446826].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[21]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0047].[2021.04.03.01.43.15.447826].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[22]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0048].[2021.04.03.01.43.15.448327].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[23]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0049].[2021.04.03.01.43.15.449327].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[24]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0050].[2021.04.03.01.43.15.450328].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[25]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0051].[2021.04.03.01.43.15.451329].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[26]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0052].[2021.04.03.01.43.15.451829].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[27]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0053].[2021.04.03.01.43.15.452830].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[28]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0054].[2021.04.03.01.43.15.453831].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[29]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0055].[2021.04.03.01.43.15.454831].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[30]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0056].[2021.04.03.01.43.15.455832].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[31]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0057].[2021.04.03.01.43.15.456332].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[32]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0058].[2021.04.03.01.43.15.457334].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[33]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0059].[2021.04.03.01.43.15.458335].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[34]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0060].[2021.04.03.01.43.15.459335].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[35]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0061].[2021.04.03.01.43.15.460335].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[36]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0062].[2021.04.03.01.43.15.460835].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[37]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0063].[2021.04.03.01.43.15.461836].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[38]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0064].[2021.04.03.01.43.15.462837].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[39]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0065].[2021.04.03.01.43.15.463838].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[40]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0066].[2021.04.03.01.43.15.464839].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[41]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0067].[2021.04.03.01.43.15.465839].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[42]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0068].[2021.04.03.01.43.15.466840].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[43]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0069].[2021.04.03.01.43.15.467840].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[44]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0070].[2021.04.03.01.43.15.468841].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[45]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0071].[2021.04.03.01.43.15.469842].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[46]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0072].[2021.04.03.01.43.15.470843].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[47]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0073].[2021.04.03.01.43.15.471843].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[48]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0074].[2021.04.03.01.43.15.472843].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[49]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0075].[2021.04.03.01.43.15.473844].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[50]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0076].[2021.04.03.01.43.15.474845].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[51]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0077].[2021.04.03.01.43.15.476346].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[52]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0078].[2021.04.03.01.43.15.477346].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[53]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0079].[2021.04.03.01.43.15.478347].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[54]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0080].[2021.04.03.01.43.15.478848].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[55]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0081].[2021.04.03.01.43.15.479848].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[56]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0082].[2021.04.03.01.43.15.480848].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[57]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0083].[2021.04.03.01.43.15.481849].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[58]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0084].[2021.04.03.01.43.15.482850].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[59]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0085].[2021.04.03.01.43.15.483852].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[60]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0086].[2021.04.03.01.43.15.484851].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[61]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0087].[2021.04.03.01.43.15.485852].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[62]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0088].[2021.04.03.01.43.15.486853].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[63]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0089].[2021.04.03.01.43.15.487853].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[64]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0090].[2021.04.03.01.43.15.488854].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[65]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0091].[2021.04.03.01.43.15.489855].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[66]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0092].[2021.04.03.01.43.15.490855].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[67]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0093].[2021.04.03.01.43.15.492355].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[68]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0094].[2021.04.03.01.43.15.493856].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[69]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0095].[2021.04.03.01.43.15.495357].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[70]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0096].[2021.04.03.01.43.15.496859].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[71]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0097].[2021.04.03.01.43.15.498359].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[72]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0098].[2021.04.03.01.43.15.499861].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[73]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0099].[2021.04.03.01.43.15.500861].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[74]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0100].[2021.04.03.01.43.15.501861].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[75]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0101].[2021.04.03.01.43.15.502862].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[76]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0102].[2021.04.03.01.43.15.503862].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[77]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0103].[2021.04.03.01.43.15.505364].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[78]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0104].[2021.04.03.01.43.15.506364].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[79]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0105].[2021.04.03.01.43.15.507865].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[80]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0106].[2021.04.03.01.43.15.509366].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[81]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0107].[2021.04.03.01.43.15.510868].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[82]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0108].[2021.04.03.01.43.15.511868].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[83]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0109].[2021.04.03.01.43.15.512868].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[84]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0110].[2021.04.03.01.43.15.513869].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[85]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0111].[2021.04.03.01.43.15.514370].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[86]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0112].[2021.04.03.01.43.15.515370].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[87]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0113].[2021.04.03.01.43.15.516371].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[88]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0114].[2021.04.03.01.43.15.516871].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[89]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0115].[2021.04.03.01.43.15.517872].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[90]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0116].[2021.04.03.01.43.15.518873].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[91]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0117].[2021.04.03.01.43.15.519873].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[92]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0118].[2021.04.03.01.43.15.520874].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[93]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0119].[2021.04.03.01.43.15.521374].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[94]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0120].[2021.04.03.01.43.15.522375].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[95]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0121].[2021.04.03.01.43.15.523375].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[96]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0122].[2021.04.03.01.43.15.523876].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[97]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0123].[2021.04.03.01.43.15.524877].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[98]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]
+[0124].[2021.04.03.01.43.15.525877].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[99]=0=[2] 1=192.168.0.3, KAT2.ODA2, KAPI_ÖNÜ_ANANS]

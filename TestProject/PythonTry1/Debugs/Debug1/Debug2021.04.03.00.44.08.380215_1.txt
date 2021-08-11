@@ -1,0 +1,23 @@
+[0001].[2021.04.03.00.44.08.396726].SRV1.INF:Main.py.<module>.297:Main Program Started
+[0002].[2021.04.03.00.44.08.397225].SRV1.ERR:Main.py.<module>.300:Artificial Error Message for testing purpose
+[0003].[2021.04.03.00.44.08.398227].SRV1.INF:Main.py.<module>.301:Command Line iniFileName=default.ini
+[0004].[2021.04.03.00.44.08.398728].SRV1.INF:Main.py.<module>.303:Command Line VerboseMode=None
+[0005].[2021.04.03.00.44.08.399228].SRV1.INF:Main.py.<module>.306:AppSpoManager.DebugVerboseModeOn=True
+[0006].[2021.04.03.00.44.08.399728].SRV1.INF:Main.py.<module>.307:AppSpoManager.DebugInfoMessages=True
+[0007].[2021.04.03.00.44.08.400729].SRV1.INF:Main.py.<module>.308:AppSpoManager.DebugErrorMessages=True
+[0008].[2021.04.03.00.44.08.401228].SRV1.INF:Main.py.<module>.309:AppSpoManager.DebugTargetConsole=True
+[0009].[2021.04.03.00.44.08.401730].SRV1.INF:Main.py.<module>.310:AppSpoManager.DebugTargetFile=True
+[0010].[2021.04.03.00.44.08.402230].SRV1.INF:Main.py.<module>.311:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0011].[2021.04.03.00.44.08.402731].SRV1.INF:Main.py.<module>.312:AppSpoManager.DebugLinesPerFile=1000
+[0012].[2021.04.03.00.44.08.403231].SRV1.INF:Main.py.<module>.313:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0013].[2021.04.03.00.44.08.403731].SRV1.INF:Main.py.<module>.336:ModuleFileNameOnly=Main.py
+[0014].[2021.04.03.00.44.08.404732].SRV1.INF:Main.py.<module>.344:File=c:\Apps\PythonTry1\Main.py
+[0015].[2021.04.03.00.44.08.405232].SRV1.INF:Main.py.<module>.345:FileDirName=c:\Apps\PythonTry1
+[0016].[2021.04.03.00.44.08.405733].SRV1.INF:Main.py.<module>.346:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0017].[2021.04.03.00.44.08.406233].SRV1.INF:Main.py.<module>.349:ModuleName1=__main__
+[0018].[2021.04.03.00.44.08.406733].SRV1.INF:Main.py.<module>.350:ModuleName2=Main
+[0019].[2021.04.03.00.44.08.407233].SRV1.INF:Main.py.<module>.359:Main Program Started
+[0020].[2021.04.03.00.44.08.408234].SRV1.INF:Main.py.<module>.360:Python Executable Path=C:\Program Files\Python39\python.exe
+[0021].[2021.04.03.00.44.08.408734].SRV1.INF:Main.py.<module>.361:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0022].[2021.04.03.00.44.08.409235].SRV1.INF:Main.py.<module>.364:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0023].[2021.04.03.00.44.08.435250].SRV1.INF:Main.py.<module>.411:Showing MainWindow

@@ -1,0 +1,58 @@
+[0001].[11444].[6776].[2021.06.14.10.54.46.384922].SRV1.INF:Main.py.<module>.520:Main Program Started
+[0002].[11444].[6776].[2021.06.14.10.54.46.400550].SRV1.INF:Main.py.<module>.522:Command Line iniFileName=default.ini
+[0003].[11444].[6776].[2021.06.14.10.54.46.400550].SRV1.INF:Main.py.<module>.523:Command Line VerboseMode=None
+[0004].[11444].[6776].[2021.06.14.10.54.46.416486].SRV1.INF:Main.py.<module>.526:AppSpoManager.DebugVerboseModeOn=True
+[0005].[11444].[6776].[2021.06.14.10.54.46.422483].SRV1.INF:Main.py.<module>.527:AppSpoManager.AppDebugMan.DebugInfoMessages=True
+[0006].[11444].[6776].[2021.06.14.10.54.46.429478].SRV1.INF:Main.py.<module>.528:AppSpoManager.DebugErrorMessages=True
+[0007].[11444].[6776].[2021.06.14.10.54.46.436473].SRV1.INF:Main.py.<module>.529:AppSpoManager.DebugTargetConsole=False
+[0008].[11444].[6776].[2021.06.14.10.54.46.442470].SRV1.INF:Main.py.<module>.530:AppSpoManager.DebugTargetFile=True
+[0009].[11444].[6776].[2021.06.14.10.54.46.448466].SRV1.INF:Main.py.<module>.531:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0010].[11444].[6776].[2021.06.14.10.54.46.454548].SRV1.INF:Main.py.<module>.532:AppSpoManager.DebugLinesPerFile=1000
+[0011].[11444].[6776].[2021.06.14.10.54.46.454548].SRV1.INF:Main.py.<module>.533:AppSpoManager.AppRunFolder=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1
+[0012].[11444].[6776].[2021.06.14.10.54.46.454548].SRV1.INF:Main.py.<module>.539:ModuleFileNameOnly=Main.py
+[0013].[11444].[6776].[2021.06.14.10.54.46.470177].SRV1.INF:Main.py.<module>.541:File=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1\Main.py
+[0014].[11444].[6776].[2021.06.14.10.54.46.470177].SRV1.INF:Main.py.<module>.542:FileDirName=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1
+[0015].[11444].[6776].[2021.06.14.10.54.46.485801].SRV1.INF:Main.py.<module>.543:FileAbsPath=c:\Users\erhan\OneDrive\Masaüstü\Erhan_2021.04.05\PythonTry1\Main.py
+[0016].[11444].[6776].[2021.06.14.10.54.46.485801].SRV1.INF:Main.py.<module>.544:ModuleName1=__main__
+[0017].[11444].[6776].[2021.06.14.10.54.46.485801].SRV1.INF:Main.py.<module>.545:ModuleName2=Main
+[0018].[11444].[6776].[2021.06.14.10.54.46.501425].SRV1.INF:Main.py.<module>.547:Main Program Started
+[0019].[11444].[6776].[2021.06.14.10.54.46.517050].SRV1.INF:Main.py.<module>.548:Python Executable Path=C:\Users\erhan\AppData\Local\Programs\Python\Python39\python.exe
+[0020].[11444].[6776].[2021.06.14.10.54.46.517050].SRV1.INF:Main.py.<module>.549:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0021].[11444].[6776].[2021.06.14.10.54.46.517050].SRV1.INF:Main.py.<module>.550:PythonShellProcessPID=6776
+[0022].[11444].[6776].[2021.06.14.10.54.46.532675].SRV1.INF:Main.py.<module>.551:PythonShellParentProcessPID=11444
+[0023].[11444].[6776].[2021.06.14.10.54.46.532675].SRV1.INF:Main.py.<module>.554:Sys.Path=['c:\\Users\\erhan\\OneDrive\\Masaüstü\\Erhan_2021.04.05\\PythonTry1', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\python39.zip', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\DLLs', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\lib', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39', 'C:\\Users\\erhan\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Users\\erhan\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages']
+[0024].[11444].[6776].[2021.06.14.10.54.46.701209].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.389:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANONS
+[0025].[11444].[6776].[2021.06.14.10.54.46.712202].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.403:List of All Nodes Read From IniFile------
+[0026].[11444].[6776].[2021.06.14.10.54.46.720198].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[11444].[6776].[2021.06.14.10.54.46.730189].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[11444].[6776].[2021.06.14.10.54.46.740183].SRV1.INF:Main.py.AddClientNodes2GridFromSettings.405:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANONS]
+[0029].[11444].[6776].[2021.06.14.10.54.46.752178].SRV1.INF:Main.py.<module>.583:Creating TestThread1
+[0030].[11444].[6776].[2021.06.14.10.54.46.754239].SRV1.INF:Main.py.<module>.585:Created TestThread1
+[0031].[11444].[6776].[2021.06.14.10.54.46.754239].SRV1.INF:Main.py.<module>.587:Starting TestThread1
+[0032].[11444].[6776].[2021.06.14.10.54.46.769866].SRV1.INF:Main.py.<module>.589:Started TestThread1
+[0033].[11444].[6776].[2021.06.14.10.54.46.769866].SRV1.INF:Main.py.<module>.591:Showing MainWindow
+[0034].[11444].[6776].[2021.06.14.10.55.43.254745].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.179:SimTestAuto_Connecting[192.168.0.4
+[0035].[11444].[6776].[2021.06.14.10.55.43.265742].SRV1.INF:Main.py.ClientConnectedGUIRefresh.475:Gridde bulunmayan bir Client Node Baðlandý
+[0036].[11444].[6776].[2021.06.14.10.55.44.295744].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.185:SimTestAuto_Connecting[192.168.0.5
+[0037].[11444].[6776].[2021.06.14.10.55.44.310735].SRV1.INF:Main.py.ClientConnectedGUIRefresh.475:Gridde bulunmayan bir Client Node Baðlandý
+[0038].[11444].[6776].[2021.06.14.10.55.45.336556].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.191:SimTestAuto_Connecting[192.168.0.6
+[0039].[11444].[6776].[2021.06.14.10.55.45.352183].SRV1.INF:Main.py.ClientConnectedGUIRefresh.475:Gridde bulunmayan bir Client Node Baðlandý
+[0040].[11444].[6776].[2021.06.14.10.55.46.383401].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.197:SimTestAuto_Connecting[192.168.0.7
+[0041].[11444].[6776].[2021.06.14.10.55.46.399029].SRV1.INF:Main.py.ClientConnectedGUIRefresh.475:Gridde bulunmayan bir Client Node Baðlandý
+[0042].[11444].[6776].[2021.06.14.10.55.47.445871].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.204:SimTestAuto_Connecting[192.168.0.2
+[0043].[11444].[6776].[2021.06.14.10.55.47.461498].SRV1.INF:Main.py.ClientConnectedGUIRefresh.480:Gridde [1]. satýrda bulunan bir Client Node Baðlandý
+[0044].[11444].[6776].[2021.06.14.10.55.48.492717].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.211:SimTestAuto_DisConnecting[192.168.0.4
+[0045].[11444].[6776].[2021.06.14.10.55.48.508337].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.465:Gridde [3]. satýrda bulunan Client ile Baðlantý Koptu
+[0046].[11444].[6776].[2021.06.14.10.55.49.539563].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.217:SimTestAuto_DisConnecting[192.168.0.5
+[0047].[11444].[6776].[2021.06.14.10.55.49.555189].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.465:Gridde [4]. satýrda bulunan Client ile Baðlantý Koptu
+[0048].[11444].[6776].[2021.06.14.10.55.50.586409].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.223:SimTestAuto_DisConnecting[192.168.0.6
+[0049].[11444].[6776].[2021.06.14.10.55.50.602036].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.465:Gridde [5]. satýrda bulunan Client ile Baðlantý Koptu
+[0050].[11444].[6776].[2021.06.14.10.55.51.633255].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.229:SimTestAuto_DisConnecting[192.168.0.2
+[0051].[11444].[6776].[2021.06.14.10.55.51.648883].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.465:Gridde [1]. satýrda bulunan Client ile Baðlantý Koptu
+[0052].[11444].[6776].[2021.06.14.10.55.52.680100].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.463:Baðlantýsý Kopan IP=[1070 Deðer1 from ThreadName=TH2 ThreadID=5536] Gridde bulunamadý. ERR_030421_2353
+[0053].[11444].[6776].[2021.06.14.10.55.57.323357].SRV1.INF:Main.py.ClientDisConnectedGUIRefresh.463:Baðlantýsý Kopan IP=[1149 Deðer1 from ThreadName=TH1 ThreadID=16056] Gridde bulunamadý. ERR_030421_2353
+[0054].[11444].[6776].[2021.06.14.10.57.01.236666].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.179:SimTestAuto_Connecting[192.168.0.4
+[0055].[11444].[6776].[2021.06.14.10.57.01.246661].SRV1.INF:Main.py.ClientConnectedGUIRefresh.480:Gridde [3]. satýrda bulunan bir Client Node Baðlandý
+[0056].[11444].[6776].[2021.06.14.10.57.02.281945].SRV1.INF:Main.py.SimTestAuto_ConnectDisconnectRun.185:SimTestAuto_Connecting[192.168.0.5

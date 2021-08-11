@@ -1,0 +1,29 @@
+[0001].[2021.04.03.01.47.46.522798].SRV1.INF:Main.py.<module>.315:Main Program Started
+[0002].[2021.04.03.01.47.46.523297].SRV1.ERR:Main.py.<module>.318:Artificial Error Message for testing purpose
+[0003].[2021.04.03.01.47.46.523797].SRV1.INF:Main.py.<module>.319:Command Line iniFileName=default.ini
+[0004].[2021.04.03.01.47.46.524298].SRV1.INF:Main.py.<module>.321:Command Line VerboseMode=None
+[0005].[2021.04.03.01.47.46.524798].SRV1.INF:Main.py.<module>.324:AppSpoManager.DebugVerboseModeOn=True
+[0006].[2021.04.03.01.47.46.525799].SRV1.INF:Main.py.<module>.325:AppSpoManager.DebugInfoMessages=True
+[0007].[2021.04.03.01.47.46.525799].SRV1.INF:Main.py.<module>.326:AppSpoManager.DebugErrorMessages=True
+[0008].[2021.04.03.01.47.46.526299].SRV1.INF:Main.py.<module>.327:AppSpoManager.DebugTargetConsole=False
+[0009].[2021.04.03.01.47.46.526799].SRV1.INF:Main.py.<module>.328:AppSpoManager.DebugTargetFile=True
+[0010].[2021.04.03.01.47.46.527300].SRV1.INF:Main.py.<module>.329:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0011].[2021.04.03.01.47.46.527800].SRV1.INF:Main.py.<module>.330:AppSpoManager.DebugLinesPerFile=1000
+[0012].[2021.04.03.01.47.46.528300].SRV1.INF:Main.py.<module>.331:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0013].[2021.04.03.01.47.46.528801].SRV1.INF:Main.py.<module>.354:ModuleFileNameOnly=Main.py
+[0014].[2021.04.03.01.47.46.529301].SRV1.INF:Main.py.<module>.362:File=c:\Apps\PythonTry1\Main.py
+[0015].[2021.04.03.01.47.46.529801].SRV1.INF:Main.py.<module>.363:FileDirName=c:\Apps\PythonTry1
+[0016].[2021.04.03.01.47.46.530302].SRV1.INF:Main.py.<module>.364:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0017].[2021.04.03.01.47.46.530802].SRV1.INF:Main.py.<module>.367:ModuleName1=__main__
+[0018].[2021.04.03.01.47.46.531302].SRV1.INF:Main.py.<module>.368:ModuleName2=Main
+[0019].[2021.04.03.01.47.46.531803].SRV1.INF:Main.py.<module>.377:Main Program Started
+[0020].[2021.04.03.01.47.46.532303].SRV1.INF:Main.py.<module>.378:Python Executable Path=C:\Program Files\Python39\python.exe
+[0021].[2021.04.03.01.47.46.532803].SRV1.INF:Main.py.<module>.379:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0022].[2021.04.03.01.47.46.533304].SRV1.INF:Main.py.<module>.382:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0023].[2021.04.03.01.47.46.562322].SRV1.INF:Main.py.<module>.429:Showing MainWindow
+[0024].[2021.04.03.01.47.49.765720].SRV1.INF:Main.py.actionDebugTest1Handler.154:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANANS
+[0025].[2021.04.03.01.47.49.766720].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[0]=0=[2] 1=192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANANS]
+[0026].[2021.04.03.01.47.49.768722].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[1]=0=[2] 1=192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANANS]
+[0027].[2021.04.03.01.47.49.769724].SRV1.INF:Main.py.actionDebugTest1Handler.165:Node[2]=0=[2] 1=192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANANS]

@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>Resources/Icons/Cancel.ico</file>
+        <file>Resources/Icons/Gear.ico</file>
+        <file>Resources/Icons/Microphone_Blue.ico</file>
+        <file>Resources/Icons/Microphone_Green.ico</file>
+        <file>Resources/Icons/Microphone_Red.ico</file>
+        <file>Resources/Icons/Player Pause_Green.ico</file>
+        <file>Resources/Icons/Player Pause_Red.ico</file>
+        <file>Resources/Icons/Player Play_Green.ico</file>
+        <file>Resources/Icons/Player Play_Red.ico</file>
+        <file>Resources/Icons/Player Stop_Green.ico</file>
+        <file>Resources/Icons/Player Stop_Red.ico</file>
+        <file>Resources/Icons/0.ico</file>
+        <file>Resources/Icons/1.ico</file>
+        <file>Resources/Icons/2.ico</file>
+        <file>Resources/Icons/3.ico</file>
+        <file>Resources/Icons/4.ico</file>
+        <file>Resources/Icons/5.ico</file>
+        <file>Resources/Icons/6.ico</file>
+        <file>Resources/Icons/7.ico</file>
+        <file>Resources/Icons/8.ico</file>
+        <file>Resources/Icons/9.ico</file>
+    </qresource>
+</RCC>

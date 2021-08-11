@@ -1,0 +1,30 @@
+[0001].[2021.04.03.02.20.51.997206].SRV1.INF:Main.py.<module>.336:Main Program Started
+[0002].[2021.04.03.02.20.51.997206].SRV1.ERR:Main.py.<module>.339:Artificial Error Message for testing purpose
+[0003].[2021.04.03.02.20.51.998208].SRV1.INF:Main.py.<module>.340:Command Line iniFileName=default.ini
+[0004].[2021.04.03.02.20.51.998208].SRV1.INF:Main.py.<module>.342:Command Line VerboseMode=None
+[0005].[2021.04.03.02.20.51.999209].SRV1.INF:Main.py.<module>.345:AppSpoManager.DebugVerboseModeOn=True
+[0006].[2021.04.03.02.20.52.000208].SRV1.INF:Main.py.<module>.346:AppSpoManager.DebugInfoMessages=True
+[0007].[2021.04.03.02.20.52.000208].SRV1.INF:Main.py.<module>.347:AppSpoManager.DebugErrorMessages=True
+[0008].[2021.04.03.02.20.52.001209].SRV1.INF:Main.py.<module>.348:AppSpoManager.DebugTargetConsole=False
+[0009].[2021.04.03.02.20.52.001209].SRV1.INF:Main.py.<module>.349:AppSpoManager.DebugTargetFile=True
+[0010].[2021.04.03.02.20.52.002210].SRV1.INF:Main.py.<module>.350:AppSpoManager.DebugTargetFilePath=Debugs\Debug1
+[0011].[2021.04.03.02.20.52.002210].SRV1.INF:Main.py.<module>.351:AppSpoManager.DebugLinesPerFile=1000
+[0012].[2021.04.03.02.20.52.003210].SRV1.INF:Main.py.<module>.352:AppSpoManager.AppRunFolder=c:\Apps\PythonTry1
+[0013].[2021.04.03.02.20.52.003210].SRV1.INF:Main.py.<module>.375:ModuleFileNameOnly=Main.py
+[0014].[2021.04.03.02.20.52.004211].SRV1.INF:Main.py.<module>.383:File=c:\Apps\PythonTry1\Main.py
+[0015].[2021.04.03.02.20.52.004211].SRV1.INF:Main.py.<module>.384:FileDirName=c:\Apps\PythonTry1
+[0016].[2021.04.03.02.20.52.004211].SRV1.INF:Main.py.<module>.385:FileAbsPath=c:\Apps\PythonTry1\Main.py
+[0017].[2021.04.03.02.20.52.005212].SRV1.INF:Main.py.<module>.388:ModuleName1=__main__
+[0018].[2021.04.03.02.20.52.006211].SRV1.INF:Main.py.<module>.389:ModuleName2=Main
+[0019].[2021.04.03.02.20.52.006211].SRV1.INF:Main.py.<module>.398:Main Program Started
+[0020].[2021.04.03.02.20.52.007213].SRV1.INF:Main.py.<module>.399:Python Executable Path=C:\Program Files\Python39\python.exe
+[0021].[2021.04.03.02.20.52.007213].SRV1.INF:Main.py.<module>.400:Python Interpreter Version=3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)]
+[0022].[2021.04.03.02.20.52.008212].SRV1.INF:Main.py.<module>.403:Sys.Path=['c:\\Apps\\PythonTry1', 'C:\\Program Files\\Python39\\python39.zip', 'C:\\Program Files\\Python39\\DLLs', 'C:\\Program Files\\Python39\\lib', 'C:\\Program Files\\Python39', 'C:\\Users\\user2\\AppData\\Roaming\\Python\\Python39\\site-packages', 'C:\\Program Files\\Python39\\lib\\site-packages']
+[0023].[2021.04.03.02.20.52.032545].SRV1.INF:Main.py.<module>.450:Showing MainWindow
+[0024].[2021.04.03.02.20.52.032545].SRV1.INF:Main.py.AddNodes2GridFromSettings.208:192.168.0.1, KAT1.ODA1, KORÝDOR DUVAR
+192.168.0.2, KAT2.ODA2, TAVAN HOPARLÖR
+192.168.0.3, KAT3.ODA3, KAPI_ÖNÜ_ANANS
+[0025].[2021.04.03.02.20.52.033545].SRV1.INF:Main.py.AddNodes2GridFromSettings.225:List of All Nodes Read From IniFile------
+[0026].[2021.04.03.02.20.52.034545].SRV1.INF:Main.py.AddNodes2GridFromSettings.227:Node[0] Order=[0] IP=192.168.0.1] Place=]KAT1.ODA1] Desc=[KORÝDOR DUVAR]
+[0027].[2021.04.03.02.20.52.035546].SRV1.INF:Main.py.AddNodes2GridFromSettings.227:Node[1] Order=[1] IP=192.168.0.2] Place=]KAT2.ODA2] Desc=[TAVAN HOPARLÖR]
+[0028].[2021.04.03.02.20.52.036548].SRV1.INF:Main.py.AddNodes2GridFromSettings.227:Node[2] Order=[2] IP=192.168.0.3] Place=]KAT3.ODA3] Desc=[KAPI_ÖNÜ_ANANS]
